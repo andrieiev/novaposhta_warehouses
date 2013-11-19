@@ -1,5555 +1,7021 @@
 ---
 Донецька область:
   Авдіївка:
-  - number: '1'
+  - id: '803'
+    number: '1'
     address: вул. Чапаєва, 2г
     phone: (062) 336-79-19
     extra: 
   Амвросіївка:
-  - number: '1'
+  - id: '671'
+    number: '1'
     address: вул. Артьома 3а
     phone: (062) 336-79-19
     extra: 
   Артемівськ:
-  - number: '1'
+  - id: '327'
+    number: '1'
     address: вул. Горбатова, 69
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '10056'
+    number: '2'
     address: вул. Чайковського, 41
     phone: 062-336-79-19
     extra: до 30 кг
   Білицьке:
-  - number: '1'
+  - id: '10044'
+    number: '1'
     address: вул. Донецька, 14
     phone: (062) 336-79-19
     extra: 
   Велика Новосілка:
-  - number: '1'
+  - id: '983'
+    number: '1'
     address: вул. Гагаріна, 22
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Волноваха:
-  - number: '1'
-    address: вул. 1-го Травня, 17
-    phone: (0629) 52-05-06
+  - id: '387'
+    number: '1'
+    address: вул. Ювілейна, 4
+    phone: (0629) 452-510
     extra: 
   Володарське:
-  - number: '1'
+  - id: '10021'
+    number: '1'
     address: вул. Леніна, 83а
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Вугледар:
-  - number: '1'
+  - id: '786'
+    number: '1'
     address: вул. Шахтарська, 3
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Горлівка:
-  - number: '1'
+  - id: '10104'
+    number: '1'
     address: вул. Мініна і Пожарського, 9а/2 (СЦ Єврострой)
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '621'
+    number: '2'
     address: вул. Снайпера Красношапки, 42
     phone: (062) 336-79-19
     extra: до 30 кг
-  - number: '3'
+  - id: '716'
+    number: '3'
     address: вул. Пушкинська, 24
     phone: (062) 336-79-19
     extra: до 30 кг
-  - number: '4'
+  - id: '76'
+    number: '4'
     address: вул.Кузнецова-Зубарева, 18
     phone: (062) 336-79-19
     extra: 
-  - number: '5'
+  - id: '10215'
+    number: '5'
     address: вул. Пушкінська, 1б
     phone: (062) 336-79-19
     extra: до 30 кг на одне місце
   Дебальцеве:
-  - number: '1'
+  - id: '319'
+    number: '1'
     address: вул. Пушкіна, 4 а
     phone: (062) 336-79-19
     extra: 
   Дзержинськ:
-  - number: '1'
+  - id: '763'
+    number: '1'
     address: вул. Польова, 1
     phone: (062) 336-79-19
     extra: 
   Димитров:
-  - number: '1'
+  - id: '944'
+    number: '1'
     address: мікрорайон Світлий, "Ринок Лідер", 3/1
     phone: (062) 336-79-19
     extra: 
   Добропілля:
-  - number: '1'
-    address: вул. Фрунзе, 3
-    phone: 062-336-79-19
+  - id: '864'
+    number: '1'
+    address: просп. Перемоги, 71
+    phone: (062) 336-79-19
     extra: 
   Докучаєвськ:
-  - number: '1'
+  - id: '773'
+    number: '1'
     address: вул. Леніна, 63
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Донецьк:
-  - number: '1'
+  - id: '192'
+    number: '1'
     address: вул. Беранже, 2 (м-н "Текстильщик")
     phone: (062) 336-79-00
     extra: 
-  - number: '2'
+  - id: '75'
+    number: '2'
     address: вул. Таврична, 139
     phone: (062) 336-79-00
     extra: 
-  - number: '3'
+  - id: '115'
+    number: '3'
     address: вул. Куйбишева, 70 (На території "Стройдеревни", склад N 43)
     phone: (062) 336-79-00
     extra: 
-  - number: '4'
+  - id: '122'
+    number: '4'
     address: вул. Туполєва, 22б
     phone: (062) 336-79-00
     extra: 
-  - number: '5'
+  - id: '88'
+    number: '5'
     address: вул. Путилівська роща, 16а
     phone: (062) 336-79-00
     extra: 
-  - number: '6'
+  - id: '215'
+    number: '6'
     address: вул. Харитонова, 15
     phone: (062) 336-79-00
     extra: 
-  - number: '7'
+  - id: '268'
+    number: '7'
     address: бульв. Шахтобудівників, 20
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '8'
-    address: просп. Київський, 23
+  - id: '424'
+    number: '8'
+    address: просп. Київський, 13
     phone: (062) 336-79-00
-    extra: до 30 кг
-  - number: '9'
+    extra: до 30 кг на одне місце
+  - id: '448'
+    number: '9'
     address: вул. Щорса, 3
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '10'
+  - id: '473'
+    number: '10'
     address: вул. Куйбишева, 131е
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '11'
+  - id: '574'
+    number: '11'
     address: вул.Полоцька, 9
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '12'
+  - id: '603'
+    number: '12'
     address: просп. Ватутіна, 22
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '13'
+  - id: '682'
+    number: '13'
     address: вул. Іонова, 18
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '704'
+    number: '14'
     address: просп. Панфілова, 1 а
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '15'
+  - id: '804'
+    number: '15'
     address: просп. Ленінський, 26
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '16'
+  - id: '861'
+    number: '16'
     address: вул. Артема, 173
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '17'
+  - id: '912'
+    number: '17'
     address: вул. Куйбишева, 260
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '18'
+  - id: '948'
+    number: '18'
     address: вул. Фрунзе, 89
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '19'
+  - id: '966'
+    number: '19'
     address: бульв. Шевченка, 44
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '20'
+  - id: '10014'
+    number: '20'
     address: просп. Ілліча, 85
     phone: 0623-36-79-00
     extra: до 30 кг на одне місце
-  - number: '21'
+  - id: '10152'
+    number: '21'
     address: вул. Петровського, 256д
     phone: (062) 336-79-00
     extra: до 30 кг
-  - number: '22'
+  - id: '10167'
+    number: '22'
     address: вул. Майська, 66
     phone: (062) 336-79-00
     extra: 
-  - number: '23'
+  - id: '10178'
+    number: '23'
     address: вул. Прожекторна, 1а
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
-  - number: '24'
+  - id: '10224'
+    number: '24'
     address: вул. Горького, 146
     phone: (062) 336-79-00
     extra: до 30 кг на одне місце
+  - id: '10294'
+    number: '25'
+    address: просп. Гурова, 7
+    phone: (062) 336-79-00
+    extra: до 30 кг
   Дружківка:
-  - number: '1'
+  - id: '391'
+    number: '1'
     address: вул. Базарна, 5 (маг. "Монолит")
     phone: (062) 336-79-19
     extra: 
   Єнакієве:
-  - number: '1'
+  - id: '862'
+    number: '1'
     address: вул. Саратовська, 1б
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '289'
+    number: '2'
     address: пл. Леніна, 8
     phone: (062) 336-79-19
     extra: до 30 кг
   Зугрес:
-  - number: '1'
+  - id: '904'
+    number: '1'
     address: вул. Приміська, 7 (Автовокзал)
-    phone: (062) 336-79-16
+    phone: (062)336-79-19
     extra: 
   Іловайськ:
-  - number: '1'
+  - id: '10018'
+    number: '1'
     address: вул. Шевченка, 50
     phone: 0623-36-79-19
     extra: 
   Кіровське (Донецьк):
-  - number: '1'
+  - id: '567'
+    number: '1'
     address: ул. Шевченка, 15 а
     phone: (062) 336-79-19
     extra: 
   Комсомольське (Донецьк):
-  - number: '1'
+  - id: '10229'
+    number: '1'
     address: вул. Леніна, 12е
     phone: (0623) 36-79-19
     extra: 
   Костянтинівка:
-  - number: '1'
+  - id: '188'
+    number: '1'
     address: пл. Перемоги, 16
     phone: (062) 336-79-19
     extra: 
   Краматорськ:
-  - number: '1'
+  - id: '10045'
+    number: '1'
     address: вул. Юбілейна, 17 (Декор Сервис)
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '850'
+    number: '2'
     address: вул. Луначарского, 2
     phone: (062) 336-79-19
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '82'
+    number: '3'
     address: вул. 19-го ПартзвЂ™їзду, 39
     phone: (062) 336-79-19
     extra: 
+  - id: '10252'
+    number: '4'
+    address: вул. Хабаровська, 32
+    phone: (062) 336-79-19
+    extra: до 30 кг
   Красний Лиман:
-  - number: '1'
+  - id: '766'
+    number: '1'
     address: вул. Кірова, 35 а (південна сторона, район дерев'яного мосту)
     phone: (062) 336-79-19
     extra: 
   Красноармійськ:
-  - number: '1'
+  - id: '10067'
+    number: '1'
     address: вул. Артема, 169 (АЗС УкрТАТ Нафта)
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '225'
+    number: '2'
     address: торг.центр «Шахтарський» (мікрорайон «Шахтарський»)
     phone: (062) 336-79-19
     extra: до 30 кг на одне місце
+  Красногорівка:
+  - id: '10279'
+    number: '1'
+    address: вул. Радянська, 20
+    phone: 0532696169
+    extra: 
   Курахове:
-  - number: '1'
+  - id: '908'
+    number: '1'
     address: вул. Грушева, 28
     phone: (062) 336-79-19
     extra: 
   Макіївка:
-  - number: '1'
+  - id: '672'
+    number: '1'
     address: вул. Тайгова, 1
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '478'
+    number: '2'
     address: просп. Леніна, 117
     phone: (062) 336-79-19
     extra: до 30 кг
-  - number: '3'
+  - id: '81'
+    number: '3'
     address: вул. Свердлова, 64
     phone: (062) 336-79-19
     extra: 
-  - number: '4'
+  - id: '814'
+    number: '4'
     address: вул. Генерала Данилова 71/1 (мкр-н "Зелений")
     phone: (062) 336-79-19
     extra: до 30 кг
-  - number: '5'
+  - id: '958'
+    number: '5'
     address: Квартал Гвардійський, 4 (пам'ятник "Пушка")
     phone: (062) 366-79-19
     extra: до 30 кг
-  - number: '6'
+  - id: '10120'
+    number: '6'
     address: вул. Чубаря, 12 (район АС Червоногвардійська)
     phone: (0623) 367-919
     extra: до 30 кг
   Мангуш:
-  - number: '1'
+  - id: '10004'
+    number: '1'
     address: вул. Леніна,109
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Мар'їнка:
-  - number: '1'
+  - id: '10069'
+    number: '1'
     address: вул. Леніна, 14 а
     phone: (062) 336-79-19
     extra: 
   Маріуполь:
-  - number: '1'
+  - id: '9'
+    number: '1'
     address: бульв. Шевченка, 313 (22-й м-рн)
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
-  - number: '2'
+  - id: '86'
+    number: '2'
     address: вул. Варганова, 10
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '168'
+    number: '3'
     address: вул. Ломізова, 1 (Лівий берег)
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
-  - number: '4'
-    address: вул. Санаторна, 23 (Приморський район)
-    phone: (0629) 52-05-06
-    extra: до 30 кг на одне місце
-  - number: '5'
+  - id: '262'
+    number: '4'
+    address: просп. Нахімова, 108
+    phone: (0629) 452-510
+    extra: до 30 кг
+  - id: '462'
+    number: '5'
     address: вул. Артема, 33 (Центр)
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: до 30 кг
-  - number: '6'
+  - id: '564'
+    number: '6'
     address: вул. Георгівська, 10 (Центр)
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
-  - number: '7'
+  - id: '813'
+    number: '7'
     address: просп. Будівельників, 86 (в районі магазину "Тысяча мелочей")
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: до 30 кг
-  - number: '8'
+  - id: '10022'
+    number: '8'
     address: просп. Перемоги, 70 (Лівий берег)
-    phone: 0629-52-05-06
+    phone: (0629) 452-510
     extra: до 30 кг
-  - number: '9'
+  - id: '10096'
+    number: '9'
     address: просп. Металургів, 215 (орієнтир - басейн Нептун)
-    phone: (0629) 520-506
+    phone: (0629) 452-510
     extra: до 30 кг на одне місце
   Миколаївка (Донецьк):
-  - number: '1'
+  - id: '811'
+    number: '1'
     address: вул. Пархоменка, 5
     phone: (062) 336-79-19
     extra: 
+  Миронівський:
+  - id: '10287'
+    number: '1'
+    address: вул. Совєтська, 24а
+    phone: (0623) 36-79-19
+    extra: 
   Моспине:
-  - number: '1'
+  - id: '10108'
+    number: '1'
     address: вул. Якима-Скорика П., 5
     phone: (0623) 367-919
     extra: 
   Новий Світ (Донецьк.обл):
-  - number: '1'
+  - id: '10111'
+    number: '1'
     address: вул. Енергетична, 25
     phone: (0623) 36-79-19
     extra: 
   Новоазовськ:
-  - number: '1'
+  - id: '377'
+    number: '1'
     address: вул. Кiрова, 68
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Світлодарськ:
-  - number: '1'
+  - id: '10001'
+    number: '1'
     address: вул. Перемоги, 89 а
     phone: (062) 336-79-19
     extra: 
   Святогірськ:
-  - number: '1'
+  - id: '10088'
+    number: '1'
     address: вул. Островського, 3
     phone: 062-336-79-19
     extra: 
   Селидове:
-  - number: '1'
+  - id: '10181'
+    number: '1'
     address: вул. Гоголя, 2
     phone: (062) 336-79-19
     extra: 
   Слов'янськ:
-  - number: '1'
+  - id: '10058'
+    number: '1'
     address: вул. Комунарів, 50
     phone: 062-336-79-19
     extra: 
-  - number: '2'
+  - id: '706'
+    number: '2'
     address: вул. Урицького, 12
     phone: (062) 336-79-19
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '125'
+    number: '3'
     address: пров. Глекова, 2а
     phone: (062) 336-79-19
     extra: 
+  - id: '10248'
+    number: '4'
+    address: пров. Парковий, 5 (район «Артема»)
+    phone: (062) 336-79-19
+    extra: до 30 кг на одне місце
+  - id: '10272'
+    number: '90'
+    address: вул. Гончарна, 5а
+    phone: ''
+    extra: 
   Сніжне:
-  - number: '1'
+  - id: '922'
+    number: '1'
     address: вул. Заводська, 9а
     phone: (062) 336-79-19
     extra: 
   Соледар:
-  - number: '1'
+  - id: '947'
+    number: '1'
     address: вул. Октябрська, 11
     phone: (062) 336-79-19
     extra: 
   Старобешеве:
-  - number: '1'
+  - id: '10030'
+    number: '1'
     address: просп. Ангеліної, 18а
     phone: (062) 336-79-19
     extra: 
   Тельманове:
-  - number: '1'
+  - id: '999'
+    number: '1'
     address: вул. Лісна, 2а
-    phone: (0629) 52-05-06
+    phone: (0629) 452-510
     extra: 
   Торез:
-  - number: '1'
+  - id: '729'
+    number: '1'
     address: пров. Арсенальний, 9
     phone: (062) 336-79-19
     extra: 
   Харцизьк:
-  - number: '1'
+  - id: '445'
+    number: '1'
     address: вул. Жовтнева, 34
     phone: (062) 336-79-19
     extra: 
-  - number: '2'
+  - id: '10240'
+    number: '2'
     address: вул. Металургів, 5 (зупинка «Черемушки»)
     phone: (062) 336-79-19
     extra: до 30 кг
   Шахтарськ:
-  - number: '1'
+  - id: '691'
+    number: '1'
     address: вул. Осипенка, 1
     phone: (062) 336-79-19
     extra: 
   Ясинувата:
-  - number: '1'
+  - id: '568'
+    number: '1'
     address: вул. Ленінградська, 15
     phone: (062) 336-79-19
     extra: 
 Запорізька область:
   Акимівка:
-  - number: '1'
+  - id: '379'
+    number: '1'
     address: вул. Патріотів, 10
     phone: (061) 214-10-14
     extra: 
   Бердянськ:
-  - number: '1'
+  - id: '867'
+    number: '1'
     address: вул. Юнатів, 10
     phone: (061) 214-10-14
     extra: 
-  - number: '2'
+  - id: '623'
+    number: '2'
     address: вул. К. Маркса, 51
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '3'
+  - id: '73'
+    number: '3'
     address: вул. Шевченка, 71
     phone: (061) 214-10-14
     extra: 
   Василівка:
-  - number: '1'
+  - id: '535'
+    number: '1'
     address: вул. Леніна, 2а
     phone: (061) 214-10-14
     extra: 
   Веселе:
-  - number: '1'
+  - id: '485'
+    number: '1'
     address: вул. Леніна, 129
     phone: (061) 214-10-14
     extra: 
   Вільнянськ:
-  - number: '1'
+  - id: '657'
+    number: '1'
     address: вул. Леніна, 35
     phone: (061)-2222-850
     extra: 
   Гуляйполе:
-  - number: '1'
+  - id: '534'
+    number: '1'
     address: вул. Шевченка, 18в
     phone: (061) 214-10-14
     extra: 
   Дніпрорудне:
-  - number: '1'
+  - id: '622'
+    number: '1'
     address: вул. Молодіжна, 7
     phone: (061) 214-10-14
     extra: 
   Енергодар:
-  - number: '1'
+  - id: '238'
+    number: '1'
     address: вул. Центральна, 4
     phone: (061) 214-10-14
     extra: 
   Запоріжжя:
-  - number: '1'
+  - id: '46'
+    number: '1'
     address: вул. Брянська,  8
     phone: (061) 214-10-14
     extra: 
-  - number: '2'
+  - id: '39'
+    number: '2'
     address: вул. Карпенка-Карого, 52
     phone: (061) 214-10-14
     extra: 
-  - number: '3'
+  - id: '146'
+    number: '3'
     address: вул. Айвазовського, 9 (правий берег)
     phone: (061) 214-10-14
     extra: 
-  - number: '4'
+  - id: '174'
+    number: '4'
     address: вул. Якова Новицького, 4
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '5'
+  - id: '193'
+    number: '5'
     address: просп. Леніна, 91
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '6'
+  - id: '226'
+    number: '6'
     address: просп. Ювілейний, 12
     phone: (061) 214-10-14
     extra: 
-  - number: '7'
+  - id: '306'
+    number: '7'
     address: вул. Космічна, 119
     phone: (061) 214-10-14
     extra: 
-  - number: '8'
+  - id: '334'
+    number: '8'
     address: просп. Леніна, 43
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '9'
+  - id: '401'
+    number: '9'
     address: просп. Металургів, 17
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '10'
+  - id: '477'
+    number: '10'
     address: вул. Гаврилова, 7
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '11'
+  - id: '511'
+    number: '11'
     address: бульв. Шевченка, 27
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '12'
+  - id: '529'
+    number: '12'
     address: вул. Звенигородська, 1
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '13'
+  - id: '600'
+    number: '13'
     address: вул. Сталеварів, 21
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '14'
+  - id: '627'
+    number: '14'
     address: вул. Ладозька, 14
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '15'
+  - id: '630'
+    number: '15'
     address: вул. Курузова, 5
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '16'
+  - id: '707'
+    number: '16'
     address: просп. Леніна, 84
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '17'
+  - id: '740'
+    number: '17'
     address: вул. Авраменка, 13
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '18'
+  - id: '992'
+    number: '18'
     address: вул. Орджонікідзе, 11
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
-  - number: '19'
+  - id: '10221'
+    number: '19'
     address: вул. Чумаченка, 37
     phone: (061) 214-10-14
     extra: до 30 кг на одне місце
   Кам'янка-Дніпровська (Запоріжжя):
-  - number: '1'
+  - id: '272'
+    number: '1'
     address: вул. Радянська, 4
     phone: (061) 214-10-14
     extra: 
   Куйбишеве:
-  - number: '1'
+  - id: '518'
+    number: '1'
     address: пров. Поштовий, 27 в (навпроти Центру зайнятості)
     phone: (061) 2222-850
     extra: 
   Мелітополь:
-  - number: '1'
+  - id: '10103'
+    number: '1'
     address: вул. Дзержинського, 21/1 (адмін. корпус заводу "Агат", вул. Леніна, 2)
     phone: (061) 214-10-14
     extra: 
-  - number: '2'
+  - id: '444'
+    number: '2'
     address: вул. Шмідта, 6
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '3'
+  - id: '607'
+    number: '3'
     address: вул. 50 років Перемоги, 29
     phone: (061) 214-10-14
     extra: до 30 кг
-  - number: '4'
+  - id: '33'
+    number: '4'
     address: вул. Дзержинського, 114/1
     phone: (061) 214-10-14
     extra: 
-  - number: '5'
+  - id: '10200'
+    number: '5'
     address: вул. Дзержинського, 291/1
     phone: (061) 214-10-14
     extra: до 30 кг
   Михайлівка:
-  - number: '1'
+  - id: '848'
+    number: '1'
     address: вул. 50-ти Річчя ВЛКСМ, 19
     phone: (061) 214-10-14
     extra: 
   Оріхів:
-  - number: '1'
+  - id: '210'
+    number: '1'
     address: вул. Ленінградських курсантів, 57
     phone: (061) 214-10-14
     extra: 
   Пологи:
-  - number: '1'
+  - id: '275'
+    number: '1'
     address: вул. Карла Маркса, 291
     phone: (061) 214-10-14
     extra: 
   Приазовське:
-  - number: '1'
+  - id: '756'
+    number: '1'
     address: вул. Горького, 101 г
     phone: (061) 214-10-14
     extra: 
   Приморськ:
-  - number: '1'
+  - id: '656'
+    number: '1'
     address: вул. Кірова, 91
     phone: (061)-2222-850
     extra: 
   Токмак:
-  - number: '1'
+  - id: '227'
+    number: '1'
     address: вул. Революційна, 63
     phone: (061) 214-10-14
     extra: 
 АР Крим:
   Алупка:
-  - number: '1'
+  - id: '694'
+    number: '1'
     address: вул. Західна, 23
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
   Алушта:
-  - number: '1'
+  - id: '79'
+    number: '1'
     address: вул. Леніна, 116 г (р-н ДАІ)
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '10080'
+    number: '2'
     address: вул. Тавричеська, 3
     phone: (0652) 71-50-50
     extra: до 30 кг
   Армянськ:
-  - number: '1'
+  - id: '344'
+    number: '1'
     address: мікрорайон імені генерала Корявко, 16
     phone: (0652) 71-50-50
     extra: 
   Бахчисарай:
-  - number: '1'
+  - id: '375'
+    number: '1'
     address: вул. Кооперативна, 8
     phone: (0652) 71-50-50
     extra: 
   Білогірськ:
-  - number: '1'
+  - id: '516'
+    number: '1'
     address: вул. Нижньогірська-Миру, 3/7
     phone: (0652) 71-50-50
     extra: 
   Віліне:
-  - number: '1'
+  - id: '10206'
+    number: '1'
     address: вул. Леніна, 71-а
     phone: (0652) 71-50-50
     extra: 
   Гурзуф:
-  - number: '1'
+  - id: '10170'
+    number: '1'
     address: вул. Подвойського, 19
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
   Джанкой:
-  - number: '1'
+  - id: '278'
+    number: '1'
     address: вул. Леніна, 44
     phone: (0652) 71-50-50
     extra: 
   Євпаторія:
-  - number: '1'
+  - id: '72'
+    number: '1'
     address: вул. Дмитра Ульянова, 72
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '459'
+    number: '2'
     address: вул. Дємишева, 127 а
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '3'
+  - id: '560'
+    number: '3'
     address: вул. Конституції, 3
     phone: (0652) 71-50-50
     extra: до 30 кг
-  Золоте Поле:
-  - number: '1'
+  Золоте Поле (Кіровський р-н):
+  - id: '10083'
+    number: '1'
     address: вул. Центральна, 7а (РИНОК)
     phone: (0652) 71-50-50
     extra: 
   Керч:
-  - number: '1'
+  - id: '98'
+    number: '1'
     address: вул. Шлагбаумська, 49/2
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '731'
+    number: '2'
     address: вул. Ульянових, 37-а
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '3'
+  - id: '824'
+    number: '3'
     address: вул. Сморжевського, 4
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '10187'
+    number: '4'
     address: вул. Марата, 2
     phone: (0652) 71-50-50
     extra: до 30 кг
   Кіровське (КРИМ):
-  - number: '1'
+  - id: '981'
+    number: '1'
     address: Радянське шосе, 7
     phone: (0652) 71-50-50
     extra: 
   Красногвардійське:
-  - number: '1'
-    address: вул. Островського, 11 (база сільгосп техніки)
+  - id: '585'
+    number: '1'
+    address: вул. Енгельса, 38
     phone: (0652) 71-50-50
     extra: 
   Красноперекопськ:
-  - number: '1'
+  - id: '124'
+    number: '1'
     address: вул. Таврійська, 18а
     phone: (0652) 71-50-50
     extra: 
   Леніне:
-  - number: '1'
+  - id: '453'
+    number: '1'
     address: пров. Шкільний, 19
     phone: (0652) 71-50-50
     extra: 
   Нижньогірський:
-  - number: '1'
+  - id: '809'
+    number: '1'
     address: вул. Молодіжна, 12а
     phone: (0652) 71-50-50
     extra: 
   Октябрське:
-  - number: '1'
+  - id: '810'
+    number: '1'
     address: вул. К. Маркса, 67
     phone: (0652) 71-50-50
     extra: 
   Первомайське(АРК):
-  - number: '1'
+  - id: '946'
+    number: '1'
     address: вул. Жовтнева, 116 б
     phone: (0652) 71-50-50
     extra: 
   Роздольне (КРИМ):
-  - number: '1'
+  - id: '636'
+    number: '1'
     address: вул. Красноперекопське шосе, 33 а
     phone: (0652) 71-50-50
     extra: 
   Саки:
-  - number: '1'
+  - id: '198'
+    number: '1'
     address: вул. Трудова, 29 а
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '10184'
+    number: '2'
     address: смт. Новофедорівка, вул. Героїв, 2 (територія кафе Геол)
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
   Севастополь:
-  - number: '1'
+  - id: '178'
+    number: '1'
     address: вул. Гідронавтів, 60
     phone: (0692) 905-035
     extra: 
-  - number: '2'
+  - id: '25'
+    number: '2'
     address: вул. Руднєва, 1г
     phone: (0692) 905-035
     extra: 
-  - number: '3'
+  - id: '266'
+    number: '3'
     address: вул. Гоголя, 36
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '346'
+    number: '4'
     address: просп. Героїв Сталінграду, 51
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '5'
+  - id: '398'
+    number: '5'
     address: вул. Леваневського, 4а
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '570'
+    number: '6'
     address: просп. Перемоги, 38 в
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '789'
+    number: '7'
     address: вул. Леніна, 19
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '880'
+    number: '8'
     address: вул. Очаківців, 19
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '9'
+  - id: '881'
+    number: '9'
     address: вул. Рєпіна, 4
     phone: 067-545-57-27
     extra: до 30 кг на одне місце
-  - number: '10'
+  - id: '10003'
+    number: '10'
     address: вул. Хрестовського, 13 (Балаклава)
     phone: (0692) 905-035
     extra: до 30 кг
-  - number: '11'
+  - id: '10117'
+    number: '11'
     address: вул. Косарева, 1
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '12'
+  - id: '10130'
+    number: '12'
     address: вул. Хрюкіна, 1а
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
-  - number: '13'
+  - id: '10165'
+    number: '13'
     address: просп. Жовтневої Революціі, 56
     phone: (0692) 90-50-35
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '10243'
+    number: '14'
     address: вул. Горпіщенко, 76
     phone: (0692) 905-035
     extra: до 30 кг на одне місце
   Сімферополь:
-  - number: '1'
+  - id: '1'
+    number: '1'
     address: вул. Рубцова, 44
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '118'
+    number: '2'
     address: вул. Севастопольська, 31
     phone: (0652) 71-50-50
     extra: 
-  - number: '3'
+  - id: '159'
+    number: '3'
     address: вул. Кірова, 29/1 (Бізнес Центр)
     phone: (0652) 71-50-50
     extra: до 10 кг
-  - number: '4'
+  - id: '177'
+    number: '4'
     address: вул. Миру, 1а
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '5'
+  - id: '206'
+    number: '5'
     address: вул. Київська, 148
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '458'
+    number: '6'
     address: просп. Перемоги, 213а/1а
     phone: (0652) 71-50-50
     extra: 
-  - number: '7'
+  - id: '507'
+    number: '7'
     address: вул. Залеська, 117а
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '8'
+  - id: '546'
+    number: '8'
     address: вул. Гагаріна, 14
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '9'
+  - id: '662'
+    number: '9'
     address: смт. Грес, Яблочкова 19
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '10'
+  - id: '693'
+    number: '10'
     address: вул. Жуковського, 12
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '11'
+  - id: '788'
+    number: '11'
     address: вул. Героїв Сталінграду, 8
     phone: (0652) 71-50-50
     extra: 
-  - number: '12'
+  - id: '828'
+    number: '12'
     address: смт. Гвардійське, вул. Алейна, 1а
     phone: (0652) 71-50-50
     extra: 
-  - number: '13'
+  - id: '10177'
+    number: '13'
     address: вул. Кечкеметська, 96а
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '10208'
+    number: '14'
     address: вул. Караімська, 16а
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
+  - id: '10255'
+    number: '15'
+    address: просп. Перемоги, 7
+    phone: (065) 271-50-50
+    extra: до 30 кг на одне місце
   Совєтський:
-  - number: '1'
+  - id: '844'
+    number: '1'
     address: пров. Мартинова, 8а
     phone: (0652) 71-50-50
     extra: 
   Старий Крим:
-  - number: '1'
+  - id: '10127'
+    number: '1'
     address: вул. Леніна, 163
     phone: (0652)-71-50-50
     extra: 
   Судак:
-  - number: '1'
+  - id: '575'
+    number: '1'
     address: вул. Алуштинська, 24 (тер. Хлібзаводу)
     phone: (0652) 71-50-50
     extra: 
   Феодосія:
-  - number: '1'
+  - id: '70'
+    number: '1'
     address: вул. Маршала Єрьоменка, 24
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '561'
+    number: '2'
     address: вул. Федька, 41
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '3'
+  - id: '720'
+    number: '3'
     address: вул. Радянська, 13
     phone: (0652) 71-50-50
     extra: до 30 кг
   Чорноморське:
-  - number: '1'
+  - id: '249'
+    number: '1'
     address: вул. Південна, 15а
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '10085'
+    number: '2'
     address: вул. Дімітрова, 5-б (Ринок Ювілейний)
     phone: (0652) 71-50-50
     extra: до 30 кг
   Щолкіне:
-  - number: '1'
+  - id: '562'
+    number: '1'
     address: вул. 3-й мікрорайон, торговий будинок 104 (бувша пекарня)
     phone: (0652) 71-50-50
     extra: 
   Ялта:
-  - number: '1'
+  - id: '617'
+    number: '1'
     address: пгт. Гаспра, вул. Південнобережне шосе, 11
     phone: (0652) 71-50-50
     extra: 
-  - number: '2'
+  - id: '181'
+    number: '2'
     address: вул. Васильєва, 14
     phone: (0652) 71-50-50
     extra: до 10 кг
-  - number: '3'
+  - id: '569'
+    number: '3'
     address: вул. Гоголя, 20
     phone: (0652) 71-50-50
     extra: до 30 кг
-  - number: '4'
+  - id: '31'
+    number: '4'
     address: вул. Ізобільна, 18
     phone: (0652) 71-50-50
     extra: 
-  - number: '5'
+  - id: '771'
+    number: '5'
     address: смт. Масандра, вул. Стаханівська, 17
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '972'
+    number: '6'
     address: вул. Крупської, 32 ж
     phone: (0652) 71-50-50
     extra: до 30 кг на одне місце
 Луганська область:
   Алчевськ:
-  - number: '1'
+  - id: '68'
+    number: '1'
     address: вул. Горького, 37
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '785'
+    number: '2'
     address: вул. Леніна, 45
     phone: (0532) 69-61-69
     extra: до 30 кг
   Антрацит:
-  - number: '1'
+  - id: '293'
+    number: '1'
     address: вул. Вокзальна, 66а
     phone: (0532) 69-61-69
     extra: 
   Біловодськ:
-  - number: '1'
+  - id: '10060'
+    number: '1'
     address: вул. Леніна, 206 а
     phone: 0532-69-61-69
     extra: 
+  Білокуракине:
+  - id: '10251'
+    number: '1'
+    address: вул. Переїздна, 27а
+    phone: (0532) 69-61-69
+    extra: 
   Брянка:
-  - number: '1'
+  - id: '606'
+    number: '1'
     address: вул. Л.Попова, 3а
     phone: 0532-69-61-69
     extra: 
   Гірське:
-  - number: '1'
+  - id: '10158'
+    number: '1'
     address: вул. Советська, 7
     phone: 0532-69-61-69
     extra: 
-  ЗимогірвЂ™я:
-  - number: '1'
+  Зимогір'я:
+  - id: '10246'
+    number: '1'
     address: вул. Толстого, 2
     phone: (0532) 69-61-69
     extra: 
   Кіровськ (Луганская обл.):
-  - number: '1'
+  - id: '356'
+    number: '1'
     address: вул. Ціолковського, 12в
     phone: 0532-69-61-69
     extra: 
   Красний Луч:
-  - number: '1'
+  - id: '286'
+    number: '1'
     address: вул. Луганське шосе, 54
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '10072'
+    number: '2'
     address: вул. Павловська, 60
     phone: (0532) 69-61-69
     extra: до 30 кг на одне місце
   Краснодон:
-  - number: '1'
+  - id: '860'
+    number: '1'
     address: кв.Тітова, 5
     phone: (0532) 69-61-69
     extra: 
   Кремінна:
-  - number: '1'
+  - id: '845'
+    number: '1'
     address: пл. Кооперативна, 40
     phone: (0532) 69-61-69
     extra: 
   Лисичанськ:
-  - number: '1'
+  - id: '349'
+    number: '1'
     address: вул. Макаренка, 208 (база "ЛИСПРОД")
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '924'
+    number: '2'
     address: квартал Жовтневої Революції, 5
     phone: (0532) 69-61-69
     extra: до 30 кг на одне місце
   Луганськ:
-  - number: '1'
+  - id: '22'
+    number: '1'
     address: вул. Оборонна, 109б
     phone: (0642) 73-18-73
     extra: 
-  - number: '2'
+  - id: '158'
+    number: '2'
     address: площа Героїв ВВВ, 5
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '3'
+  - id: '223'
+    number: '3'
     address: вул. В.В. Шевченка, 10 (район Краєзнавчого музею)
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '4'
+  - id: '224'
+    number: '4'
     address: квартал Мирний, 8
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '5'
+  - id: '308'
+    number: '5'
     address: вул. Фрунзе, 117 (район ринку "Радиобалка")
     phone: (0642) 73-18-73
     extra: 
-  - number: '6'
+  - id: '313'
+    number: '6'
     address: вул. А. Ліньова, 98б (кафе Корчма)
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '7'
+  - id: '325'
+    number: '7'
     address: квартал Дружби, 10
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '8'
+  - id: '358'
+    number: '8'
     address: вул. Лутугинська, 89а
     phone: (0642) 73-18-73
     extra: 
-  - number: '9'
+  - id: '468'
+    number: '9'
     address: вул. Переможна, 2з
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '10'
+  - id: '514'
+    number: '10'
     address: вул. Курчатова, 9
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '11'
+  - id: '548'
+    number: '11'
     address: смт. Ювілейне, вул. Леніна, 8/2
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '12'
+  - id: '645'
+    number: '12'
     address: кв-л. Ленінського Комсомолу, 7 г
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '13'
+  - id: '697'
+    number: '13'
     address: кв. Жукова, 4
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '14'
+  - id: '859'
+    number: '14'
     address: вул. Кірова, 30
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '15'
+  - id: '883'
+    number: '15'
     address: вул. 50-річчя Утворення СРСР, 34
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '16'
+  - id: '929'
+    number: '16'
     address: квартал Якіра, 7/184
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '17'
+  - id: '10068'
+    number: '17'
     address: вул. Котельникова, 7
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '18'
+  - id: '10109'
+    number: '18'
     address: вул. Олексієва, 6/2 (ЦЕНТРАЛЬНИЙ РИНОК)
     phone: (0642) 73-18-73
     extra: до 30 кг
-  - number: '19'
+  - id: '10144'
+    number: '19'
     address: квартал Восточний, 2
     phone: (064) 273-18-73
     extra: до 30 кг
-  - number: '20'
+  - id: '10217'
+    number: '20'
     address: вул. Градусова, 4
     phone: (0642) 73-18-73
     extra: до 30 кг
   Лутугине:
-  - number: '1'
+  - id: '580'
+    number: '1'
     address: вул. Чехова, 6а
     phone: (0532) 69-61-69
     extra: 
   Марківка:
-  - number: '1'
+  - id: '10112'
+    number: '1'
     address: вул. Лермонтова, 18
     phone: 0532-69-61-69
     extra: 
   Мілове:
-  - number: '1'
+  - id: '10064'
+    number: '1'
     address: вул. Дружби народів, 103
     phone: 0532-69-61-69
     extra: 
   Новоайдар:
-  - number: '1'
+  - id: '10173'
+    number: '1'
     address: вул. Пролетарська, 5
     phone: 0532-69-61-69
     extra: 
   Новопсков:
-  - number: '1'
+  - id: '955'
+    number: '1'
     address: вул. Леніна, 10
     phone: 0532-69-61-69
     extra: 
   Первомайськ(Луганськ):
-  - number: '1'
+  - id: '357'
+    number: '1'
     address: вул. Макаренко, 13
     phone: 0532-69-61-69
     extra: 
   Перевальськ:
-  - number: '1'
+  - id: '556'
+    number: '1'
     address: вул. Переїздна, 16
     phone: 0532-69-61-69
     extra: 
   Попасна:
-  - number: '1'
+  - id: '355'
+    number: '1'
     address: вул. Герцена, 2д
     phone: 0532-69-61-69
     extra: 
   Ровеньки:
-  - number: '1'
+  - id: '337'
+    number: '1'
     address: вул. Кооперативна, 1
     phone: (0532) 69-61-69
     extra: 
   Рубіжне:
-  - number: '1'
+  - id: '784'
+    number: '1'
     address: вул. Смірнова, 1а
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '277'
+    number: '2'
     address: вул. Мєндєлєєва, 21
     phone: (0532) 69-61-69
     extra: до 30 кг
   Сватове:
-  - number: '1'
+  - id: '977'
+    number: '1'
     address: вул. Калініна, 4а
     phone: 0532-69-61-69
     extra: 
   Свердловськ:
-  - number: '1'
+  - id: '402'
+    number: '1'
     address: вул. Енгельса, 7
     phone: (0532) 69-61-69
     extra: 
   Сєверодонецьк:
-  - number: '1'
+  - id: '348'
+    number: '1'
     address: вул. Федоренка, 10, корп. 2 (торг. центр "ДЖАЗ")
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '13'
+    number: '2'
     address: вул. Заводська, 21
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '3'
+  - id: '10149'
+    number: '3'
     address: вул. Науки, 22
     phone: (0532) 69-61-69
     extra: до 30 кг на одне місце
   Слов'яносербськ:
-  - number: '1'
+  - id: '10110'
+    number: '1'
     address: вул. Горького, 51
     phone: 0532-69-61-69
     extra: 
   Станиця Луганська:
-  - number: '1'
+  - id: '962'
+    number: '1'
     address: вул. Лінія 3, 20б
     phone: (0532) 69-61-69
     extra: 
   Старобільськ:
-  - number: '1'
+  - id: '939'
+    number: '1'
     address: площа Товарна,5
     phone: (0642) 73-18-80
     extra: 
-  - number: '2'
+  - id: '285'
+    number: '2'
     address: вул. Трудова, 12а
     phone: (0642) 73-18-80
     extra: до 30 кг
   Стаханов:
-  - number: '1'
+  - id: '171'
+    number: '1'
     address: вул. Трамвайна, 42
     phone: 0532-69-61-69
     extra: 
-  - number: '2'
+  - id: '10053'
+    number: '2'
     address: вул. Карла Лібкнехта, 78/б
     phone: 0532-69-61-69
     extra: до 30 кг
   Суходільськ:
-  - number: '1'
+  - id: '960'
+    number: '1'
     address: вул. Леніна, 17
     phone: 0532-69-61-69
     extra: 
   Троїцьке:
-  - number: '1'
+  - id: '10210'
+    number: '1'
     address: вул. Чкалова, 16
     phone: (0532) 69-61-69
     extra: 
   Червонопартизанськ:
-  - number: '1'
+  - id: '10150'
+    number: '1'
     address: пл. Леніна, буд. 5
     phone: 0532-69-61-69
     extra: 
   Щастя:
-  - number: '1'
+  - id: '554'
+    number: '1'
     address: вул. Дружби, 24
     phone: 0532-69-61-69
     extra: 
 Одеська область:
   Ананьїв:
-  - number: '1'
+  - id: '758'
+    number: '1'
     address: вул. Незалежності, 19
     phone: (048) 775-96-00
     extra: 
   Арциз:
-  - number: '1'
+  - id: '303'
+    number: '1'
     address: вул. 28 липня, 97
     phone: (048) 775-96-00
     extra: 
   Балта:
-  - number: '1'
+  - id: '294'
+    number: '1'
     address: вул. Ломоносова, 24а
     phone: (048) 775-96-00
     extra: 
   Березівка:
-  - number: '1'
+  - id: '10239'
+    number: '1'
     address: вул. Шевченка, 35
     phone: (0485) 62-05-18
     extra: 
   Білгород-Дністровський:
-  - number: '1'
+  - id: '111'
+    number: '1'
     address: вул. Перемоги, 11а
     phone: (048) 775-96-00
     extra: 
   Біляївка:
-  - number: '1'
+  - id: '768'
+    number: '1'
     address: вул. Костіна, 9
     phone: (048) 775-96-00
     extra: 
   Болград(Ізмаїл):
-  - number: '1'
+  - id: '296'
+    number: '1'
     address: просп. Леніна, 85
     phone: (048)775-96-00
     extra: 
   Велика Михайлівка:
-  - number: '1'
+  - id: '10037'
+    number: '1'
     address: вул. Леніна, 105
     phone: (048) 775-96-00
     extra: 
   Іванівка(Одеса):
-  - number: '1'
+  - id: '10086'
+    number: '1'
     address: вул. Леніна, 72
     phone: (048) 775-96-00
     extra: 
   Ізмаїл:
-  - number: '1'
+  - id: '89'
+    number: '1'
     address: вул. Некрасова, 3а
     phone: (048) 775-96-00
     extra: 
-  - number: '2'
+  - id: '10156'
+    number: '2'
     address: вул. Комсомольська, 57
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
   Іллічівськ:
-  - number: '1'
+  - id: '77'
+    number: '1'
     address: вул. Паркова, 14
     phone: (048) 775-96-00
     extra: 
   Кілія:
-  - number: '1'
+  - id: '360'
+    number: '1'
     address: вул. Леніна, 18
     phone: (048) 775-96-00
     extra: 
   Кодима:
-  - number: '1'
+  - id: '438'
+    number: '1'
     address: вул. 80-ї Гвардейської стрілкової дивізії, 8
     phone: (048) 775-96-00
     extra: 
   Комінтернівське:
-  - number: '1'
+  - id: '964'
+    number: '1'
     address: Відділення; вул. Першотравнева, 5
     phone: (0482) 775-96-00
     extra: 
   Котовськ:
-  - number: '1'
+  - id: '56'
+    number: '1'
     address: вул. 50 років Жовтня, 192
     phone: (048) 775-96-00
     extra: 
   Любашівка:
-  - number: '1'
+  - id: '822'
+    number: '1'
     address: вул. Леніна, 94
     phone: (0487) 775-96-00
     extra: 
   Овідіополь:
-  - number: '1'
+  - id: '888'
+    number: '1'
     address: вул. Дзержинського,40
     phone: (048) 775-96-00
     extra: 
   Одеса:
-  - number: '1'
+  - id: '99'
+    number: '1'
     address: Ленінградське шосе, 28
     phone: (048) 775-96-00
     extra: 
-  - number: '2'
+  - id: '51'
+    number: '2'
     address: вул. Базова, 16 (Промринок, 7 км)
     phone: (048) 775-96-00
     extra: 
-  - number: '3'
+  - id: '60'
+    number: '3'
     address: вул. Дальницька, 23/4
     phone: (048) 775-96-00
     extra: 
-  - number: '4'
+  - id: '147'
+    number: '4'
     address: вул. Вільямса, 86
     phone: (048) 775-96-00
     extra: 
-  - number: '5'
+  - id: '222'
+    number: '5'
     address: вул. Академіка Філатова, 24
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '229'
+    number: '6'
     address: с. Котовка, вул. Кооперативна, 2а (Авторинок "Куяльник")
     phone: (048) 775-96-00
     extra: 
-  - number: '7'
+  - id: '235'
+    number: '7'
     address: вул. Польська, 9/13
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '8'
+  - id: '240'
+    number: '8'
     address: вул. Тираспольська, 31 (ЦЕНТР)
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '9'
+  - id: '332'
+    number: '9'
     address: вул. Сегедська, 16
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '10'
+  - id: '333'
+    number: '10'
     address: вул. Затонського, 4
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '11'
+  - id: '400'
+    number: '11'
     address: вул. Миколаївська дорога, 243
     phone: (048) 775-96-00
     extra: 
-  - number: '12'
+  - id: '426'
+    number: '12'
     address: вул. Маяковського, 9
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '13'
+  - id: '450'
+    number: '13'
     address: вул. Дніпропетровська дорога, 82
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '14'
+  - id: '454'
+    number: '14'
     address: вул. Маршала Маліновського, 71
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '15'
+  - id: '494'
+    number: '15'
     address: вул. Тіраспольське шосе, 15б
     phone: (048) 775-96-00
     extra: 
-  - number: '16'
+  - id: '521'
+    number: '16'
     address: вул. Академіка Корольова, 1
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '17'
+  - id: '533'
+    number: '17'
     address: вул. Розумовська, 29
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '18'
+  - id: '579'
+    number: '18'
     address: вул. Фонтанська дорога, 16/8
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '19'
+  - id: '595'
+    number: '19'
     address: вул. Генерала Петрова, 33
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '20'
+  - id: '660'
+    number: '20'
     address: вул. Мала Арнаутська 119
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '21'
+  - id: '709'
+    number: '21'
     address: просп. Олександрівський, 21
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '22'
+  - id: '769'
+    number: '22'
     address: вул. Новосельського, 19
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '23'
+  - id: '797'
+    number: '23'
     address: вул. Сахарова, 36
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '24'
+  - id: '837'
+    number: '24'
     address: вул. Середньофонтанська , 34
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '25'
+  - id: '838'
+    number: '25'
     address: вул. Генуезська, 5
     phone: (048) 775-96-00
     extra: 
-  - number: '26'
+  - id: '866'
+    number: '26'
     address: вул. Дніпропетрівська дорога, 113б
     phone: (048) 775-96-00
     extra: 
-  - number: '27'
+  - id: '945'
+    number: '27'
     address: вул. Бочарова, 6
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '28'
+  - id: '956'
+    number: '28'
     address: вул. Корольова, 65
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '29'
+  - id: '957'
+    number: '29'
     address: вул. 25 Чапаєвської дивізії, 17
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '30'
+  - id: '970'
+    number: '30'
     address: вул. Успенська, 7
     phone: (048) 775-96-00
     extra: до 30 кг на одне місце
-  - number: '31'
+  - id: '973'
+    number: '31'
     address: вул. Героїв Сталінграду, 52
     phone: (048) 775-96-00
     extra: 
-  - number: '32'
+  - id: '993'
+    number: '32'
     address: вул. Фонтанська дорога, 121
     phone: (048) 775-96-00
     extra: 
-  - number: '33'
+  - id: '10010'
+    number: '33'
     address: вул. Романа Кармена, 15 (просп. Шевченка)
     phone: (048) 775-96-00
     extra: до 30 кг
-  - number: '34'
+  - id: '10230'
+    number: '34'
     address: вул. Сергія Ядова, 16а
     phone: (048) 775-96-00
     extra: до 30 кг
+  - id: '10262'
+    number: '35'
+    address: вул. Академіка Корольова, 46
+    phone: (048) 775-96-00
+    extra: до 30 кг на одне місце
   Рені:
-  - number: '1'
+  - id: '394'
+    number: '1'
     address: вул. Шевченка, 29
     phone: (048) 775-96-00, (067) 542-67-37
     extra: 
-  Роздільна(Одеса):
-  - number: '1'
+  Роздільна (Одеса):
+  - id: '359'
+    number: '1'
     address: вул. Леніна, 28
     phone: (048) 775-96-00
     extra: 
   Саврань:
-  - number: '1'
-    address: вул. Леніна, 2
-    phone: (048) 775-96-00
+  - id: '868'
+    number: '1'
+    address: вул. Леніна, 15
+    phone: (0512) 45-13-60
     extra: 
   Сарата:
-  - number: '1'
+  - id: '718'
+    number: '1'
     address: вул Чкалова, 34 а
     phone: (048) 775-96-00
     extra: 
   Татарбунари:
-  - number: '1'
+  - id: '10040'
+    number: '1'
     address: вул. Тура, 13 в
     phone: (048) 775-96-00
     extra: 
   Теплодар:
-  - number: '1'
+  - id: '998'
+    number: '1'
     address: вул. Польова, 6
     phone: (048) 775-96-00
     extra: 
   Фрунзівка:
-  - number: '1'
+  - id: '10125'
+    number: '1'
     address: м. Фрунзівка, Відділення, вул. Шосейна, 36 б
     phone: 067-530-97-32
     extra: 
   Ширяєве:
-  - number: '1'
+  - id: '10134'
+    number: '1'
     address: Відділення, вул. Леніна, 139
     phone: (048)-775-96-00
     extra: 
   Южне:
-  - number: '1'
+  - id: '186'
+    number: '1'
     address: вул. Приморська, 19б (Ринок "Приморський")
     phone: (048) 775-96-00
     extra: 
 Житомирська область:
   Андрушівка:
-  - number: '1'
+  - id: '10041'
+    number: '1'
     address: вул. Івана Франка, 67
     phone: (0412) 576-325
     extra: 
   Баранівка:
-  - number: '1'
+  - id: '493'
+    number: '1'
     address: вул. Першотравнева, 2
     phone: (0412) 576-325
     extra: 
   Бердичів:
-  - number: '1'
-    address: вул. Котляревського, 2б
+  - id: '87'
+    number: '1'
+    address: вул. Залізнична, 14
     phone: (0412) 576-325
     extra: 
-  - number: '2'
+  - id: '680'
+    number: '2'
     address: вул. Богунська, 3
     phone: (0412) 576-325
     extra: до 30 кг на оде місце
-  - number: '3'
+  - id: '751'
+    number: '3'
     address: вул. Урицького, 2
     phone: (0412) 576-325
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '10131'
+    number: '4'
     address: вул. Соборна, 20
     phone: (0412) 576-325
     extra: до 30 кг на одне місце
+  - id: '10271'
+    number: '5'
+    address: вул. Котляревського, 2б
+    phone: (0412) 576-325
+    extra: 
   Брусилів:
-  - number: '1'
+  - id: '10020'
+    number: '1'
     address: вул. 1 травня, 47а
     phone: (0412) 576-325
     extra: 
   Володарськ-Волинський:
-  - number: '1'
+  - id: '712'
+    number: '1'
     address: вул. Чапаєва, 18
     phone: (0412) 576-325
     extra: 
   Ємільчине:
-  - number: '1'
+  - id: '767'
+    number: '1'
     address: вул. Леніна, 29
     phone: (0412) 576-325
     extra: 
   Житомир:
-  - number: '1'
+  - id: '733'
+    number: '1'
     address: пл. Смолянська, 3
     phone: (0412) 576-325
     extra: 
-  - number: '2'
+  - id: '3'
+    number: '2'
     address: вул. Маршала Рибалко, 28
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '3'
+  - id: '230'
+    number: '3'
     address: вул. Якіра, 3
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '4'
+  - id: '519'
+    number: '4'
     address: вул. Перемоги, 99
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '5'
+  - id: '659'
+    number: '5'
     address: вул. Б. Тена, 9
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '6'
+  - id: '710'
+    number: '6'
     address: вул. Московська, 41
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '7'
+  - id: '723'
+    number: '7'
     address: вул. Київська, 112
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '8'
-    address: вул. Кооперативна, 20
-    phone: (0412) 576-325
+  - id: '114'
+    number: '8'
+    address: вул. Баранова, 52
+    phone: ''
     extra: 
-  - number: '9'
+  - id: '858'
+    number: '9'
     address: вул. Вітрука, 9а
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '10'
+  - id: '920'
+    number: '10'
     address: просп. Миру, 37
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '11'
+  - id: '10142'
+    number: '11'
     address: вул. Щорса, 94
     phone: (0412) 576-325
     extra: 
-  - number: '12'
+  - id: '10157'
+    number: '12'
     address: вул. Адмірала Щасного, 1/1
     phone: (0412) 57-63-25
     extra: до 30 кг
-  - number: '13'
+  - id: '10219'
+    number: '13'
     address: вул. Московська, 26
     phone: (0412) 57-63-25
     extra: до 30 кг
   Іршанськ:
-  - number: '1'
+  - id: '921'
+    number: '1'
     address: вул. Гулія, 23
     phone: (0412) 576-325
     extra: 
   Коростень:
-  - number: '1'
+  - id: '10098'
+    number: '1'
     address: вул. Жовтнева, 72а
     phone: (0412) 576-325
     extra: 
-  - number: '2'
+  - id: '933'
+    number: '2'
     address: вул. Сосновського, 25
     phone: (0412) 576-325
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '66'
+    number: '3'
     address: вул. Кірова, 55
     phone: (0412) 576-325
     extra: до 30 кг на одне місце
   Коростишів:
-  - number: '1'
+  - id: '259'
+    number: '1'
     address: вул. Карла Маркса, 56
     phone: (0412) 576-325
     extra: 
   Лугини:
-  - number: '1'
+  - id: '658'
+    number: '1'
     address: вул. Карла Маркса,23 а
     phone: (0412) 576-325
     extra: 
   Любар:
-  - number: '1'
-    address: вул. вул. Кантемирівська, 6
+  - id: '732'
+    number: '1'
+    address: вул. Райради, 3
     phone: (0382) 735-844
     extra: 
   Малин:
-  - number: '1'
+  - id: '273'
+    number: '1'
     address: вул. Грушевського, 1
     phone: (0412) 576-325
     extra: 
   Народичі:
-  - number: '1'
+  - id: '782'
+    number: '1'
     address: вул. 1-го Травня,19
     phone: (0412) 576-325
     extra: 
   Нові Білокоровичі:
-  - number: '1'
+  - id: '10235'
+    number: '1'
     address: Відділення N1 вул. Фрунзе, 7
     phone: (0412) 57-63-25
     extra: 
   Новоград-Волинський:
-  - number: '1'
+  - id: '65'
+    number: '1'
     address: вул. Вокзальна, 6
     phone: (0412) 576-325
     extra: 
-  - number: '2'
+  - id: '665'
+    number: '2'
     address: вул. Волі,9
     phone: (0412) 576-325
     extra: до 30 кг
-  - number: '3'
+  - id: '927'
+    number: '3'
     address: вул. Пушкіна, 3
     phone: (0412) 576-325
     extra: до 30 кг
   Овруч:
-  - number: '1'
-    address: вул. Леніна, 34
+  - id: '412'
+    number: '1'
+    address: вул. Радянська, 60
     phone: (0412) 576-325
     extra: 
   Олевськ:
-  - number: '1'
+  - id: '713'
+    number: '1'
     address: вул. Промислова, 1
     phone: (0412) 576-325
     extra: 
   Попільня:
-  - number: '1'
+  - id: '919'
+    number: '1'
     address: вул.  Радянська, 100
     phone: (0412) 576-325
     extra: 
   Радомишль:
-  - number: '1'
+  - id: '628'
+    number: '1'
     address: пров. Базарний, 10
     phone: (0412) 576-325
     extra: 
   Романів:
-  - number: '1'
+  - id: '975'
+    number: '1'
     address: вул. Леніна, 92
     phone: (0412) 576-325
     extra: 
   Ружин:
-  - number: '1'
+  - id: '899'
+    number: '1'
     address: вул. Бірюкова, 9/1
     phone: (0412) 576-325
     extra: 
   Словечне:
-  - number: '1'
+  - id: '10241'
+    number: '1'
     address: вул. Леніна, 3
     phone: (0412) 57-63-25
     extra: 
   Червоноармійськ:
-  - number: '1'
+  - id: '982'
+    number: '1'
     address: вул. Карла Маркса, 83
     phone: (0412) 576-325
     extra: 
   Черняхів:
-  - number: '1'
+  - id: '884'
+    number: '1'
     address: вул. Леніна, 11
     phone: (0412) 576-325
     extra: 
   Чуднів:
-  - number: '1'
+  - id: '923'
+    number: '1'
     address: вул. Кірова, 1
     phone: (0412) 576-325
     extra: 
 Днiпропетровська область:
   Апостолове:
-  - number: '1'
+  - id: '244'
+    number: '1'
     address: вул. Каманіна, 1в
     phone: (0564) 999-630
     extra: 
-  - number: '2'
+  - id: '10025'
+    number: '2'
     address: вул. Ветеранів, 2б
     phone: (0564) 999-630
     extra: до 30 кг
   Васильківка:
-  - number: '1'
+  - id: '762'
+    number: '1'
     address: пров. Комунальний, 12 б
     phone: (056) 795-99-09
     extra: 
   Верхівцеве:
-  - number: '1'
+  - id: '829'
+    number: '1'
     address: вул. Леніна, 73а
     phone: (056) 795-99-09
     extra: 
   Верхньодніпровськ:
-  - number: '1'
+  - id: '248'
+    number: '1'
     address: вул. Театральна, 27
     phone: (056) 795-99-09
     extra: 
   Вільногірськ:
-  - number: '1'
+  - id: '284'
+    number: '1'
     address: вул. Леніна,54 (ТРК Альтаїр)
     phone: (0564) 999-630
     extra: 
-  Гвардійське:
-  - number: '1'
+  Гвардійське (Дніпропетровськ):
+  - id: '10205'
+    number: '1'
     address: вул. Гагаріна, 13
     phone: (0567) 95-99-09
     extra: 
   Дніпровське:
-  - number: '1'
+  - id: '10089'
+    number: '1'
     address: вул. Комсомольська, 9
     phone: (056) 795-99-09
     extra: 
   Дніпродзержинськ:
-  - number: '1'
+  - id: '362'
+    number: '1'
     address: вул. Мала Садова, 19а (База "Широка")
     phone: (056) 795-99-09
     extra: 
-  - number: '2'
+  - id: '16'
+    number: '2'
     address: вул. Кірова, 12
     phone: (056) 795-99-09
     extra: 
-  - number: '3'
+  - id: '482'
+    number: '3'
     address: просп. Металургів, 6 б
     phone: (056) 795-99-09
     extra: 
-  - number: '4'
+  - id: '652'
+    number: '4'
     address: просп. Конституції, 30
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
-  - number: '5'
+  - id: '714'
+    number: '5'
     address: просп. Комсомольський, 18
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '6'
+  - id: '812'
+    number: '6'
     address: просп. Леніна, 70
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '7'
+  - id: '10238'
+    number: '7'
     address: вул. Сировця, 6
     phone: (056) 795-99-09
     extra: до 30 кг
   Дніпропетровськ:
-  - number: '1'
+  - id: '688'
+    number: '1'
     address: вул. Маршала Малиновського, 98а
     phone: (056) 795-99-09
     extra: 
-  - number: '2'
+  - id: '44'
+    number: '2'
     address: вул. Академіка Янгеля, 40
     phone: (056) 795-99-09
     extra: 
-  - number: '3'
+  - id: '49'
+    number: '3'
     address: вул. Тверська, 1
     phone: (056) 795-99-09
     extra: 
-  - number: '4'
+  - id: '110'
+    number: '4'
     address: вул. Ленінградська, 19
     phone: (056) 795-99-09
     extra: 
-  - number: '5'
+  - id: '129'
+    number: '5'
     address: вул. Плеханова, 5а
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '6'
+  - id: '143'
+    number: '6'
     address: вул. Ударників, 27
     phone: (056) 795-99-09
     extra: 
-  - number: '7'
+  - id: '153'
+    number: '7'
     address: просп. Кірова, 8а
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '8'
+  - id: '166'
+    number: '8'
     address: просп. Гагаріна, 112а
     phone: (056) 795-99-09
     extra: 
-  - number: '9'
+  - id: '175'
+    number: '9'
     address: вул. Комсомольська, 80/1
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '10'
+  - id: '205'
+    number: '10'
     address: вул. Собінова 10а
     phone: (056) 795-99-09
     extra: 
-  - number: '11'
+  - id: '281'
+    number: '11'
     address: просп. Газети Правди, 6
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '12'
+  - id: '282'
+    number: '12'
     address: житловий масив Комунар, 3а
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '13'
+  - id: '299'
+    number: '13'
     address: просп. Гагаріна, 43
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '14'
+  - id: '343'
+    number: '14'
     address: бульв. Слави, 6
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '15'
+  - id: '371'
+    number: '15'
     address: просп. Праці, 9
     phone: (056) 795-99-09
     extra: 
-  - number: '16'
+  - id: '441'
+    number: '16'
     address: пл. Леніна, 1
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '17'
+  - id: '451'
+    number: '17'
     address: вул. Донецьке шосе, 1
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '18'
+  - id: '480'
+    number: '18'
     address: вул. Робоча, 23в
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '19'
+  - id: '525'
+    number: '19'
     address: вул. Панікахі, 91
     phone: (056) 795-99-09
     extra: 
-  - number: '20'
-    address: вул. Артема, 86
+  - id: '553'
+    number: '20'
+    address: вул. Героїв Сталінграду, 3
     phone: (056)795-99-09
-    extra: до 30 кг
-  - number: '21'
+    extra: до 30 кг на одне місце
+  - id: '592'
+    number: '21'
     address: вул. Фрунзе, 8
     phone: (056) 795-99-09
     extra: 
-  - number: '22'
+  - id: '598'
+    number: '22'
     address: вул. Теплична, 21
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '23'
+  - id: '640'
+    number: '23'
     address: просп. Кірова, 76
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '24'
+  - id: '639'
+    number: '24'
     address: просп. Газети Правди, 65 а
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '25'
+  - id: '673'
+    number: '25'
     address: просп. Пушкіна, 3
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
-  - number: '26'
+  - id: '683'
+    number: '26'
     address: просп. Петровського, 36
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '27'
+  - id: '689'
+    number: '27'
     address: вул. Космонавтів, 4
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '28'
+  - id: '63'
+    number: '28'
     address: вул. Березинська, 58
     phone: (056) 795-99-09
     extra: 
-  - number: '29'
+  - id: '736'
+    number: '29'
     address: вул.Тітова, 21
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '30'
+  - id: '777'
+    number: '30'
     address: просп. Героїв, 12
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '31'
-    address: вул. Робоча, 170
+  - id: '800'
+    number: '31'
+    address: вул. Робоча, 89
     phone: (056) 795-99-09
-    extra: до 30 кг
-  - number: '32'
+    extra: до 30 кг на одне місце
+  - id: '826'
+    number: '32'
     address: вул. Дзержинського, 8
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '33'
-    address: вул. Моніторна, 2б (ж/м Парус-2)
+  - id: '10141'
+    number: '33'
+    address: пров. Парусний, 19
     phone: (056) 795-99-09
-    extra: до 30 кг
-  - number: '34'
+    extra: до 30 кг на одне місце
+  - id: '10179'
+    number: '34'
     address: просп. Калініна, 3а
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
-  - number: '35'
+  - id: '10191'
+    number: '35'
     address: вул. Кондукторська, 2б (ж/м Північний)
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '36'
+  - id: '10195'
+    number: '36'
     address: вул. Жуковського, 2е
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
-  - number: '37'
+  - id: '10244'
+    number: '37'
     address: вул. Будьонного, 29 (ж. м. Західний)
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
+  - id: '10288'
+    number: '38'
+    address: вул. Харківська, 4
+    phone: (056) 795-99-09
+    extra: до 30 кг
   Жовті Води:
-  - number: '1'
+  - id: '95'
+    number: '1'
     address: вул. Заводська, 1/14
     phone: (0564) 999-630
     extra: 
-  - number: '2'
+  - id: '10138'
+    number: '2'
     address: вул. Петровського, 50а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
   Зеленодольськ:
-  - number: '1'
+  - id: '744'
+    number: '1'
     address: пров. Молодіжний, 2а
     phone: (0564) 999-630
     extra: 
   Кривий Ріг:
-  - number: '1'
+  - id: '142'
+    number: '1'
     address: вул. Купріна, 123б
     phone: (0564) 999-630
     extra: 
-  - number: '2'
+  - id: '4'
+    number: '2'
     address: вул. Отто Брозовського 83г/2
     phone: (056) 999-630
     extra: 
-  - number: '3'
+  - id: '117'
+    number: '3'
     address: вул. Кропивницького, 29в
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '4'
-    address: вул. Косіора, 7
+  - id: '152'
+    number: '4'
+    address: вул. Постишева, 2a
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '5'
-    address: м. Інгулець, вул. Каткова, 49
+  - id: '234'
+    number: '5'
+    address: вул. 27 Партз'їзду, 9б
     phone: (0564) 999-630
     extra: 
-  - number: '6'
+  - id: '239'
+    number: '6'
     address: вул. Спаська, 1а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '256'
+    number: '7'
     address: вул. Янова, 4
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '369'
+    number: '8'
     address: вул. Сєченова, 26
     phone: (0564) 999-630
     extra: 
-  - number: '9'
+  - id: '452'
+    number: '9'
     address: вул. Щорса, 23а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '10'
+  - id: '611'
+    number: '10'
     address: вул. Кириленка 25/49
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '11'
+  - id: '615'
+    number: '11'
     address: вул. Галенка 5/49
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '12'
+  - id: '655'
+    number: '12'
     address: просп. Південний, 17, кв. 83
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '13'
-    address: вул. Тесленка, 13/77
+  - id: '696'
+    number: '13'
+    address: вул. Мелешкіна, 9, прим. 3
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '742'
+    number: '14'
     address: вул. Лісового, 9 а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '15'
+  - id: '865'
+    number: '15'
     address: просп. Миру, 5а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '16'
+  - id: '875'
+    number: '16'
     address: 4-мрн. Зарічний, 30 а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
-  - number: '17'
+  - id: '897'
+    number: '17'
     address: вул. Федоренка, 5а
     phone: (0564) 999-630
     extra: до 30 кг на одне місце
+  - id: '10274'
+    number: '18'
+    address: вул. Тбіліська, 4
+    phone: (056) 499-96-30
+    extra: 
+  - id: '10281'
+    number: '19'
+    address: вул. Мусорського, 20
+    phone: (0564) 999-630
+    extra: до 30 кг на одне місце
   Кринички:
-  - number: '1'
+  - id: '743'
+    number: '1'
     address: вул. Заречна, 1а
     phone: (0564) 999-630
     extra: 
   Магдалинівка:
-  - number: '1'
+  - id: '831'
+    number: '1'
     address: вул. Червоноармійска, 2а
     phone: (056) 795-99-09
     extra: 
   Марганець:
-  - number: '1'
+  - id: '396'
+    number: '1'
     address: вул. Паркова, 8
     phone: (0566) 68-17-66
     extra: 
   Миколаївка (Дніпропетровськ):
-  - number: '1'
+  - id: '10075'
+    number: '1'
     address: вул. Кірова, 3
     phone: (056) 795-99-09
     extra: 
   Нікополь:
-  - number: '1'
+  - id: '102'
+    number: '1'
     address: вул. Лісова, 1
-    phone: (0566) 68-17-66
+    phone: (0567) 959-905
     extra: 
-  - number: '2'
+  - id: '530'
+    number: '2'
     address: вул. Усова, 42
-    phone: (0566) 68-17-66
+    phone: (0567) 959-905
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '753'
+    number: '3'
     address: просп. Трубніков, 32
-    phone: (0566) 68-17-66
+    phone: (0567) 959-905
     extra: до 30 кг
-  - number: '4'
+  - id: '10176'
+    number: '4'
     address: вул. Добролюбова, 42
-    phone: (0566) 068-17-66
+    phone: (0567) 959-905
     extra: до 30 кг на одне місце
   Новомосковськ:
-  - number: '1'
+  - id: '201'
+    number: '1'
     address: вул. Ковальова, 29А
     phone: (056) 795-99-09
     extra: 
-  - number: '2'
+  - id: '436'
+    number: '2'
     address: вул. Велика Ковалівка, 6
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '3'
+  - id: '10095'
+    number: '3'
     address: вул. Радянська, 48 б
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '4'
+  - id: '10132'
+    number: '4'
     address: вул. Красноармійська, 24
     phone: (056) 795-99-09
     extra: 
   Орджонікідзе:
-  - number: '1'
+  - id: '418'
+    number: '1'
     address: вул. Чехова, 1а
     phone: (0566) 68-17-66
     extra: 
   П'ятихатки:
-  - number: '1'
-    address: вул. Мирошніченка, 91
+  - id: '200'
+    number: '1'
+    address: вул. Шевченка, 121
     phone: (0564) 999-630
     extra: 
   Павлоград:
-  - number: '1'
+  - id: '91'
+    number: '1'
     address: вул. Дніпровська, 49 (район СШБ)
     phone: (056) 795-99-09
     extra: 
-  - number: '2'
+  - id: '432'
+    number: '2'
     address: вул. Леніна, 75
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '3'
+  - id: '910'
+    number: '3'
     address: вул. Верстатобудівників, 14, кв. 58
     phone: (056) 795-99-09
     extra: до 30 кг
-  - number: '4'
+  - id: '10140'
+    number: '4'
     address: вул. Полтавська, 107/1
     phone: (056) 795-99-09
     extra: до 30 кг
   Перещепине:
-  - number: '1'
+  - id: '830'
+    number: '1'
     address: вул. Шевченка, 25
     phone: (056) 795-99-09
     extra: 
   Першотравенськ (Дніпропетровська обл):
-  - number: '1'
+  - id: '384'
+    number: '1'
     address: вул. Жовтнева, 25
     phone: (056) 795-99-09
     extra: 
   Петриківка:
-  - number: '1'
+  - id: '686'
+    number: '1'
     address: вул. Леніна, 59а
     phone: (056) 795-99-09
     extra: 
   Петропавлівка:
-  - number: '1'
+  - id: '213'
+    number: '1'
     address: вул. Радянська, 44
     phone: (056) 795-99-09, (050) 308-45-37
     extra: 
+  Підгородне:
+  - id: '10277'
+    number: '1'
+    address: вул. Партизанська, 60
+    phone: (0567) 95-99-09
+    extra: 
   Покровське:
-  - number: '1'
+  - id: '304'
+    number: '1'
     address: вул. 40 років Жовтня, 15
     phone: (056) 795-99-09
     extra: 
   Синельникове:
-  - number: '1'
+  - id: '212'
+    number: '1'
     address: вул. Шевченка, 29а
     phone: (056) 795-99-09, (050) 405-53-51
     extra: 
-  - number: '2'
+  - id: '10197'
+    number: '2'
     address: вул. 50 років Жовтня, 129 а
     phone: (056) 795-99-09
     extra: до 30 кг на одне місце
   Солоне:
-  - number: '1'
+  - id: '918'
+    number: '1'
     address: вул. Гагаріна, 26а
     phone: (056) 795-99-09
     extra: 
   Софіївка:
-  - number: '1'
+  - id: '917'
+    number: '1'
     address: вул. Жовтнева, 50
     phone: (0564) 999-630
     extra: 
   Тернівка:
-  - number: '1'
+  - id: '372'
+    number: '1'
     address: вул. Харківська, 3
     phone: (056) 795-99-09
     extra: 
   Томаківка:
-  - number: '1'
+  - id: '936'
+    number: '1'
     address: вул. Пушкіна, 11а
     phone: (061) 214-10-14
     extra: 
   Царичанка:
-  - number: '1'
+  - id: '407'
+    number: '1'
     address: вул. Комсомольська, 90
     phone: (056) 795-99-09
     extra: 
   Широке:
-  - number: '1'
+  - id: '10034'
+    number: '1'
     address: вул. Леніна, 66
     phone: (0564) 999-630
     extra: 
   Щорськ:
-  - number: '1'
+  - id: '10160'
+    number: '1'
     address: вул. Кооперативна, 20
     phone: (0564) 999-630
     extra: 
+Миколаївська область:
+  Арбузинка:
+  - id: '10268'
+    number: '1'
+    address: вул. Набережна, 170
+    phone: (0512) 45-13-60
+    extra: 
+  Баштанка:
+  - id: '329'
+    number: '1'
+    address: вул. Театральна, 1
+    phone: (0512) 45-13-60
+    extra: 
+  Березанка:
+  - id: '634'
+    number: '1'
+    address: вул. Леніна, 80
+    phone: (0512) 45-13-60
+    extra: 
+  Березнегувате:
+  - id: '648'
+    number: '1'
+    address: вул. Чехова, 22/1
+    phone: (0512) 45-13-60
+    extra: 
+  Братське:
+  - id: '833'
+    number: '1'
+    address: вул. Леніна, 73
+    phone: (0512) 45-13-60
+    extra: 
+  Веселинове:
+  - id: '961'
+    number: '1'
+    address: вул. Леніна, 30
+    phone: (0512) 45-13-60
+    extra: 
+  Вознесенськ:
+  - id: '109'
+    number: '1'
+    address: вул. Кірова, 16/6
+    phone: (0512) 45-13-60
+    extra: 
+  Врадіївка:
+  - id: '701'
+    number: '1'
+    address: вул. Героїв Врадіївщини, 162
+    phone: (0512) 45-13-60
+    extra: 
+  Доманівка:
+  - id: '675'
+    number: '1'
+    address: вул.Кузнечна, 1
+    phone: (0512) 45-13-60
+    extra: 
+  Єланець:
+  - id: '649'
+    number: '1'
+    address: вул. Карла Маркса, 125
+    phone: (0512) 45-13-60
+    extra: 
+  Казанка:
+  - id: '849'
+    number: '1'
+    address: Відділення; вул. Миру, 207-а
+    phone: (0564) 999-630
+    extra: 
+  Криве Озеро:
+  - id: '527'
+    number: '1'
+    address: вул. Шевченка, 6
+    phone: (0512) 451-360
+    extra: 
+  Миколаїв:
+  - id: '35'
+    number: '1'
+    address: вул. 1-а Слобідська, 62
+    phone: (0512) 45-13-60
+    extra: 
+  - id: '48'
+    number: '2'
+    address: вул. Морехідна, 1а
+    phone: (0512) 45-13-60
+    extra: 
+  - id: '167'
+    number: '3'
+    address: вул. Електронна, 81/7
+    phone: (0512) 45-13-60
+    extra: 
+  - id: '187'
+    number: '4'
+    address: просп. Жовтневий, 330
+    phone: (0512) 45-13-60
+    extra: до 30 кг на одне місце
+  - id: '231'
+    number: '5'
+    address: просп. Героїв Сталінграду, 77/1
+    phone: (0512) 45-13-60
+    extra: до 30 кг на одне місце
+  - id: '405'
+    number: '6'
+    address: вул. Радянська, 13/4
+    phone: (0512) 451-360
+    extra: до 30 кг на одне місце
+  - id: '484'
+    number: '7'
+    address: вул. Космонавтів, 62
+    phone: (0512) 45-13-60
+    extra: до 30 кг
+  - id: '512'
+    number: '8'
+    address: вул. Нікольська, 49
+    phone: (0512) 45-13-60
+    extra: до 30 кг
+  - id: '578'
+    number: '9'
+    address: вул. Генерала Карпенка, 2/2 а
+    phone: (0512) 45-13-60
+    extra: до 30 кг на одне місце
+  - id: '724'
+    number: '10'
+    address: просп. Леніна, 86/3
+    phone: (0512) 451-360
+    extra: до 30 кг
+  - id: '750'
+    number: '11'
+    address: просп. Миру, 13
+    phone: (0512) 45-13-60
+    extra: до 30 кг
+  - id: '770'
+    number: '12'
+    address: вул. Пушкінська, 33
+    phone: (0512) 45-13-60
+    extra: до 30 кг на одне місце
+  - id: '894'
+    number: '13'
+    address: вул. Червоних Майовщиків, 17/7
+    phone: (0512) 45-13-60
+    extra: до 30 кг на одне місце
+  - id: '10273'
+    number: '14'
+    address: просп. Леніна, 159
+    phone: (051) 245-13-60
+    extra: до 30 кг на одне місце
+  Нова Одеса:
+  - id: '471'
+    number: '1'
+    address: вул. Леніна, 175
+    phone: (0512) 451-360
+    extra: 
+  Новий Буг:
+  - id: '243'
+    number: '1'
+    address: вул. Червона Площа, 26
+    phone: (0512) 451-360
+    extra: 
+  Очаків:
+  - id: '320'
+    number: '1'
+    address: вул. Луначарського, 18
+    phone: (0512) 451-360
+    extra: 
+  Первомайськ (Миколаїв):
+  - id: '10093'
+    number: '1'
+    address: вул. Вознесенська, 52
+    phone: (0512) 451-360
+    extra: 
+  - id: '790'
+    number: '2'
+    address: вул. Достоєвського, 2а
+    phone: (0512) 451-360
+    extra: до 30 кг
+  - id: '62'
+    number: '3'
+    address: вул. Радянська, 39
+    phone: (0512) 451-360
+    extra: до 30 кг на одне місце
+  Снігурівка:
+  - id: '469'
+    number: '1'
+    address: вул. Жовтнева, 111
+    phone: (0512) 451-360
+    extra: 
+  Южноукраїнськ:
+  - id: '11'
+    number: '1'
+    address: бульв. Шевченка, 14
+    phone: (0512) 451-360
+    extra: 
 Харкiвська область:
   Балаклія:
-  - number: '1'
+  - id: '271'
+    number: '1'
     address: вул. 8-го Березня, 3б
     phone: (057) 727-63-27
     extra: 
   Барвінкове:
-  - number: '1'
+  - id: '509'
+    number: '1'
     address: вул. Першотравнева, 6
     phone: (057) 727-63-27
     extra: 
   Безлюдівка:
-  - number: '1'
+  - id: '10026'
+    number: '1'
     address: Відділення, вул. Зміївська, 68а
     phone: 0577-27-63-27
     extra: 
   Близнюки:
-  - number: '1'
+  - id: '907'
+    number: '1'
     address: вул. Комсомольська, 27
     phone: (056) 795-99-09
     extra: 
   Богодухів:
-  - number: '1'
+  - id: '389'
+    number: '1'
     address: вул. Шевченка, 10
     phone: (057) 727-63-27
     extra: 
   Борова (Харків):
-  - number: '1'
+  - id: '798'
+    number: '1'
     address: вул. Миру, 40 а
     phone: (057) 727-63-27
     extra: 
   Валки:
-  - number: '1'
+  - id: '885'
+    number: '1'
     address: вул. Лібкнехта Карла, 11а
     phone: (057) 727-63-27
     extra: 
   Великий Бурлук:
-  - number: '1'
+  - id: '10015'
+    number: '1'
     address: вул. Радянська, 36 а
     phone: (0577) 27-63-27
     extra: 
   Вовчанськ:
-  - number: '1'
+  - id: '566'
+    number: '1'
     address: вул. Дзержинського, 17
     phone: (057) 727-63-27
     extra: 
   Дворічна:
-  - number: '1'
+  - id: '10007'
+    number: '1'
     address: вул. 35-ї Гвардiйської дивiзiї, 20
     phone: 0577-27-63-27
     extra: 
   Зачепилівка:
-  - number: '1'
+  - id: '10087'
+    number: '1'
     address: пров. Новоселівський, 2
     phone: (056) 795-99-09
     extra: 
   Зміїв:
-  - number: '1'
+  - id: '388'
+    number: '1'
     address: вул. Червоноармійська, 21а
     phone: (057) 727-63-27
     extra: 
   Золочів(Харківська обл.):
-  - number: '1'
+  - id: '898'
+    number: '1'
     address: вул. 1 Травня, 2а
     phone: (057) 727-63-27
     extra: 
   Ізюм:
-  - number: '1'
+  - id: '417'
+    number: '1'
     address: вул. Соборна, 46
     phone: (057) 727-63-27
     extra: 
   Ківшарівка:
-  - number: '1'
+  - id: '10135'
+    number: '1'
     address: Ківшарівка, 35 В
     phone: (057) 727-63-27
     extra: 
   Комсомольське (Харків):
-  - number: '1'
+  - id: '10082'
+    number: '1'
     address: вул. Шевченка, 2
     phone: (0577) 27-63-27
     extra: 
   Красноград (Харківська обл):
-  - number: '1'
-    address: вул. Ленінградська, 90 (територія ДОСААФ)
+  - id: '156'
+    number: '1'
+    address: вул. Шевченка, 78
     phone: (0532) 69-61-69
     extra: 
   Краснокутськ:
-  - number: '1'
+  - id: '937'
+    number: '1'
     address: вул. Леніна, 111
     phone: (057) 727-63-27
     extra: 
   Куп'янськ:
-  - number: '1'
+  - id: '397'
+    number: '1'
     address: вул. Садова, 1
     phone: (057) 727-63-27
     extra: 
   Лозова:
-  - number: '1'
+  - id: '165'
+    number: '1'
     address: пров. Севастопольський, 2б
     phone: (056) 795-99-09
     extra: 
-  - number: '2'
+  - id: '916'
+    number: '2'
     address: вул. 1-й мікрорайон, 17/4
     phone: (056) 795-99-09
     extra: до 30 кг
   Люботин:
-  - number: '1'
+  - id: '10032'
+    number: '1'
     address: вул. Радянська, 32/2-19
     phone: (0577) 27-63-27
     extra: 
   Мерефа:
-  - number: '1'
+  - id: '508'
+    number: '1'
     address: вул. Савченка, 1в
     phone: (057) 727-63-27
     extra: 
   Нова Водолага:
-  - number: '1'
+  - id: '647'
+    number: '1'
     address: вул. Гагарина, 12
     phone: (057) 727-63-27
     extra: 
   Первомайський (Харківська обл):
-  - number: '1'
+  - id: '288'
+    number: '1'
     address: вул. Бугайченка, 36
     phone: (057) 727-63-27
     extra: 
   Сахновщина:
-  - number: '1'
-    address: вул. Південновокзальна, 38а
+  - id: '10228'
+    number: '1'
+    address: вул. Південновокзальна, 3
     phone: (0567) 95-99-09
     extra: 
   Харків:
-  - number: '1'
+  - id: '10097'
+    number: '1'
     address: вул. Плеханівська, 126
     phone: (057) 727-63-27
     extra: 
-  - number: '2'
+  - id: '41'
+    number: '2'
     address: вул. Франківська, 14
     phone: (057) 727-63-27
     extra: 
-  - number: '3'
+  - id: '42'
+    number: '3'
     address: вул. Якіра, 124
     phone: (057) 727-63-27
     extra: 
-  - number: '4'
+  - id: '38'
+    number: '4'
     address: вул. Достоєвського, 5
     phone: (057) 727-63-27
     extra: 
-  - number: '5'
+  - id: '123'
+    number: '5'
     address: смт. Пісочин, пл. Ю. Кононенка, 1а (Автобазар "Лоск", приміщення "Приват
       Банку")
     phone: (057) 727-63-27
     extra: 
-  - number: '6'
+  - id: '131'
+    number: '6'
     address: вул. Академіка Павлова, 120
     phone: (057) 727-63-27
     extra: 
-  - number: '7'
-    address: просп. Людвига Свободи, 62а (район "Олексіївка")
+  - id: '160'
+    number: '7'
+    address: просп. Перемоги, 55є
     phone: (057) 727-63-27
     extra: 
-  - number: '8'
+  - id: '180'
+    number: '8'
     address: вул. Малогончарівська, 28/30
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '9'
+  - id: '233'
+    number: '9'
     address: вул. Мохначанська, 44а
     phone: (057) 727-63-27
     extra: 
-  - number: '10'
+  - id: '311'
+    number: '10'
     address: вул. Чайковського, 5/7/9
     phone: (057) 727-63-27
     extra: до 10 кг
-  - number: '11'
+  - id: '324'
+    number: '11'
     address: просп. Гагаріна, 41/2
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '12'
+  - id: '366'
+    number: '12'
     address: вул. Лук'янівська, 2
     phone: (057) 727-63-27
     extra: 
-  - number: '13'
+  - id: '423'
+    number: '13'
     address: смт. Дергачі, вул. Привокзальна, 4
     phone: (057) 727-63-27
     extra: 
-  - number: '14'
+  - id: '437'
+    number: '14'
     address: просп. Московський, 199б (ТЦ СанСіті, 2)
     phone: (057) 727-63-27
     extra: 
-  - number: '15'
+  - id: '515'
+    number: '15'
     address: вул. Петра Свинаренка, 20
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '16'
+  - id: '577'
+    number: '16'
     address: смт. Пісочин, пл. Ю. Кононенко, 1а (Автобазар "Лоск", східна сторона)
     phone: (057) 771-43-35
     extra: 
-  - number: '17'
+  - id: '559'
+    number: '17'
     address: вул. 23 серпня, 59
     phone: (057) 771-43-35
     extra: до 30 кг
-  - number: '18'
+  - id: '620'
+    number: '18'
     address: просп. Гагаріна, 127а
     phone: (057) 727-63-27
     extra: 
-  - number: '19'
+  - id: '663'
+    number: '19'
     address: вул. Морозова, 18
     phone: (057) 771 43 35
     extra: 
-  - number: '20'
+  - id: '687'
+    number: '20'
     address: вул. Новгородська, 4
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '21'
+  - id: '734'
+    number: '21'
     address: вул. Академіка Проскури, 1
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '22'
+  - id: '819'
+    number: '22'
     address: вул. Чернишевська, 1
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '23'
+  - id: '886'
+    number: '23'
     address: вул. Академіка Павлова, 134/16
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '24'
+  - id: '930'
+    number: '24'
     address: вул. Полтавський Шлях, 154
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '25'
+  - id: '941'
+    number: '25'
     address: просп. Тракторобудівників, 57а
     phone: 057) 727-63-27
     extra: 
-  - number: '26'
+  - id: '10005'
+    number: '26'
     address: ТЦ «Барабашова», Афганська площадка, місце 21-П1-55, 56
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '27'
+  - id: '10027'
+    number: '27'
     address: Відділення N27  вул, Шевченка, 317
     phone: (057) 727-63-27
     extra: 
-  - number: '28'
+  - id: '10050'
+    number: '28'
     address: вул. Культури, 23
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '29'
+  - id: '10052'
+    number: '29'
     address: вул. Командарма Корка, 4
     phone: (057) 727-63-27
     extra: до 30 кг
-  - number: '30'
+  - id: '85'
+    number: '30'
     address: просп. Московський, 232а
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '31'
+  - id: '10079'
+    number: '31'
     address: ТЦ "Барабашова", Пл. "В'єтнам", місц С-008-21-0782, -0783, -0784
     phone: (057) 727-63-27
     extra: до 30кг на 1місце
-  - number: '32'
+  - id: '10113'
+    number: '32'
     address: вул. Червоношкільна набережна, 26
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '33'
+  - id: '10118'
+    number: '33'
     address: вул. Сумська, 124
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '34'
+  - id: '10166'
+    number: '34'
     address: вул. Енгельса, 14
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '35'
+  - id: '10180'
+    number: '35'
     address: вул. Героїв праці, 14 (ТЦ Джокер 2 поверх)
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '36'
+  - id: '10212'
+    number: '36'
     address: вул. Жовтневої революції, 92
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '37'
+  - id: '10232'
+    number: '37'
     address: вул. Клочківська, 244
     phone: (057) 727-63-27
     extra: до 30 кг на одне місце
-  - number: '90'
+  - id: '10267'
+    number: '38'
+    address: просп. Косіора, 184
+    phone: (057) 727-63-27
+    extra: до 30 кг
+  - id: '10289'
+    number: '39'
+    address: просп. Гагаріна, 48
+    phone: (067) 576-20-32
+    extra: до 30 кг
+  - id: '10182'
+    number: '90'
     address: ПОШТОМАТ
     phone: ''
     extra: 
   Чугуїв:
-  - number: '1'
+  - id: '312'
+    number: '1'
     address: вул. Леонова, 4
     phone: (057) 727-63-27
     extra: 
   Шевченкове:
-  - number: '1'
+  - id: '935'
+    number: '1'
     address: вул. Леніна, 4
     phone: (057) 727-63-27
     extra: 
 Вінницька область:
   Бар:
-  - number: '1'
+  - id: '433'
+    number: '1'
     address: вул. Жовтневої Революції, 14
     phone: (0432) 50-61-41
     extra: 
   Бершадь:
-  - number: '1'
+  - id: '539'
+    number: '1'
     address: вул. Червоноармійська, 13а
     phone: (0432) 50-61-41
     extra: 
   Вапнярка:
-  - number: '1'
+  - id: '10203'
+    number: '1'
     address: вул. Леніна, 221д
     phone: (0432) 50-61-41
     extra: 
   Вінниця:
-  - number: '1'
+  - id: '483'
+    number: '1'
     address: вул. Гліба Успенського, 91
     phone: (0432) 50-61-41
     extra: 
-  - number: '2'
+  - id: '100'
+    number: '2'
     address: вул. Липовецька, 6а (ТЦ «Віват»)
     phone: (0432) 50-61-41
     extra: 
-  - number: '3'
+  - id: '197'
+    number: '3'
     address: вул. Хлібна, 19
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '26'
+    number: '4'
     address: вул. Фурманова, 28
     phone: (0432) 50-61-41
     extra: 
-  - number: '5'
+  - id: '532'
+    number: '5'
     address: вул. Келецька, 83
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '632'
+    number: '6'
     address: вул. Зодчих, 10
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '699'
+    number: '7'
     address: вул. 600-річчя, 52
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '747'
+    number: '8'
     address: вул. Пушкіна, 10
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '9'
+  - id: '746'
+    number: '9'
     address: просп. Коцюбинського, 32
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '10'
+  - id: '825'
+    number: '10'
     address: Хмельницьке шосе, 82
     phone: (0432) 50-61-41
     extra: 
-  - number: '11'
+  - id: '876'
+    number: '11'
     address: вул. Фрунзе, 58
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '12'
+  - id: '10164'
+    number: '12'
     address: вул. Пирогова, 31
     phone: (0432) 50-61-41
     extra: до 30 кг на одне місце
-  - number: '13'
+  - id: '10204'
+    number: '13'
     address: вул. Грибоєдова, 3
     phone: (0432) 506-141
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '10236'
+    number: '14'
     address: Сабарівське шоссе, 1б/2д
     phone: (0432) 50-61-41
     extra: 
   Гайсин:
-  - number: '1'
+  - id: '502'
+    number: '1'
     address: вул. 1-го Травня, 46
     phone: (0432) 50-61-41
     extra: 
   Гнівань:
-  - number: '1'
+  - id: '779'
+    number: '1'
     address: вул. Леніна, 98
     phone: (067) 578-25-13
     extra: 
   Жмеринка:
-  - number: '1'
+  - id: '374'
+    number: '1'
     address: вул. Тимірязєва, 21
     phone: (0432) 50-61-41
     extra: 
   Іллінці:
-  - number: '1'
+  - id: '799'
+    number: '1'
     address: вул. Ворошилова, 82
     phone: (0432) 50-61-41
     extra: 
   Калинівка(Вінниця):
-  - number: '1'
+  - id: '500'
+    number: '1'
     address: вул. Шмідта, 3
     phone: (0432) 50-61-41
     extra: 
   Козятин:
-  - number: '1'
+  - id: '318'
+    number: '1'
     address: вул. Червоноармійська, 42
     phone: (0412) 576-325
     extra: 
   Крижопіль:
-  - number: '1'
+  - id: '934'
+    number: '1'
     address: вул. Чабанюка, 29а
     phone: (0432) 50-61-41
     extra: 
   Ладижин:
-  - number: '1'
+  - id: '544'
+    number: '1'
     address: вул. Наконечного, 3а
     phone: (0432) 50-61-41
     extra: 
   Липовець:
-  - number: '1'
+  - id: '677'
+    number: '1'
     address: вул. Леніна, 55
     phone: (0432) 50-61-41
     extra: 
   Літин:
-  - number: '1'
+  - id: '531'
+    number: '1'
     address: вул. Радянська, 65
     phone: (0432) 50-61-41
     extra: 
   Могилів-Подільський:
-  - number: '1'
+  - id: '138'
+    number: '1'
     address: вул. Покровська, 22
     phone: (0432) 50-61-41
     extra: 
   Муровані Курилівці:
-  - number: '1'
+  - id: '757'
+    number: '1'
     address: вул. Леніна, 62
     phone: (0432) 50-61-41
     extra: 
   Немирів:
-  - number: '1'
+  - id: '549'
+    number: '1'
     address: вул. Горького, 93
     phone: (0432) 50-61-41
     extra: 
   Оратів:
-  - number: '1'
+  - id: '10019'
+    number: '1'
     address: вул. Леніна, 86
     phone: (0432) 50-61-41
     extra: 
   Піщанка:
-  - number: '1'
+  - id: '984'
+    number: '1'
     address: вул. Пушкіна, 6
     phone: (0432) 50-61-41
     extra: 
   Погребище:
-  - number: '1'
+  - id: '10121'
+    number: '1'
     address: вул. Шевченка, 30
     phone: (0432) 50-61-41
     extra: 
   Теплик:
-  - number: '1'
+  - id: '915'
+    number: '1'
     address: вул. Василя Стуса, 6
     phone: (067) 545-75-27
     extra: 
   Томашпіль:
-  - number: '1'
+  - id: '832'
+    number: '1'
     address: вул. Криворучко, 9
     phone: (0432) 50-61-41
     extra: 
   Тростянець(Вінницька обл.):
-  - number: '1'
+  - id: '806'
+    number: '1'
     address: вул. Леніна, 17
     phone: (0432) 50-61-41
     extra: 
   Тульчин:
-  - number: '1'
+  - id: '439'
+    number: '1'
     address: вул. Леніна, 57д
     phone: (0432) 50-61-41
     extra: 
   Хмільник (Вінницька обл.):
-  - number: '1'
-    address: вул. 50-річчя СРСР, 6
+  - id: '242'
+    number: '1'
+    address: вул. 1 Травня, 38
     phone: (0432) 50-61-41
     extra: 
   Чечельник:
-  - number: '1'
+  - id: '10168'
+    number: '1'
     address: м. Чечельник, Відділення, вул. Леніна, 45
     phone: (0432) 50-61-41
     extra: 
   Шаргород (Вінницька обл.):
-  - number: '1'
+  - id: '783'
+    number: '1'
     address: вул. Леніна, 272
     phone: (0432) 50-61-41
     extra: 
   Шпиків:
-  - number: '1'
-    address: вул. Кооперативна, 2
+  - id: '988'
+    number: '1'
+    address: вул. Стоянське шосе, 76
     phone: (0432) 50-61-41
     extra: 
   Ямпіль(Вінниця):
-  - number: '1'
+  - id: '739'
+    number: '1'
     address: вул. Б.Хмельницького, 42
     phone: (0432) 50-61-41
     extra: 
 Київська  область:
   Баришівка:
-  - number: '1'
+  - id: '382'
+    number: '1'
     address: вул. Жовтнева, 69 (маг. "Павлуша" (ПашаМото)
     phone: (044) 323-02-22
     extra: 
   Березань:
-  - number: '1'
+  - id: '404'
+    number: '1'
     address: вул. Леніна, 157
     phone: (044) 323-02-22
     extra: 
   Біла Церква:
-  - number: '1'
+  - id: '32'
+    number: '1'
     address: вул. 1-ша Радгоспна, 5
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
-    address: вул. 50-річчя Перемоги, 47
+  - id: '203'
+    number: '2'
+    address: вул. Вокзальна, 22
     phone: (044) 323-02-22
-    extra: до 30 кг
-  - number: '3'
+    extra: до 30 кг на одне місце
+  - id: '411'
+    number: '3'
     address: вул. Леваневського, 47/1
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '4'
+  - id: '863'
+    number: '4'
     address: бул. Першого Травня, 44
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '5'
-    address: вул. Турчанінова, 4
+  - id: '906'
+    number: '5'
+    address: бул. 50-річчя Перемоги, 86
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
   Білогородка:
-  - number: '1'
+  - id: '10084'
+    number: '1'
     address: вул. Калініна, 2
     phone: (044) 323-0-222
     extra: 
   Богуслав (Київська обл.):
-  - number: '1'
+  - id: '524'
+    number: '1'
     address: вул. Франка, 27а
     phone: (044) 323-02-22
     extra: 
   Бориспіль:
-  - number: '1'
+  - id: '7'
+    number: '1'
     address: вул. Привокзальна, 21
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '495'
+    number: '2'
     address: вул. Нижній Вал, 1а
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '140'
+    number: '3'
     address: с. Мартусівка, вул. Моісеєва, 70
     phone: (044) 323-02-22
     extra: до 50 кг
-  - number: '4'
+  - id: '547'
+    number: '4'
     address: ! '4 (до 30 кг): вул. Головатого, 20'
     phone: (044) 323-02-22
     extra: 
   Борова (Київ):
-  - number: '1'
+  - id: '10077'
+    number: '1'
     address: вул. Театральна, 17а
     phone: 044-323-02-22
     extra: 
   Бородянка:
-  - number: '1'
+  - id: '476'
+    number: '1'
     address: вул. Леніна, 337
     phone: (044) 323-02-22
     extra: 
   Боярка:
-  - number: '1'
+  - id: '741'
+    number: '1'
     address: вул. Шевченка, 193
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '571'
+    number: '2'
     address: вул. Богдана Хмельницького, 98
     phone: (044) 323-02-22
     extra: до 50 кг
   Бровари:
-  - number: '1'
+  - id: '19'
+    number: '1'
     address: вул. Кутузова, 125
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '228'
+    number: '2'
     address: вул. Київська, 302
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '3'
+  - id: '641'
+    number: '3'
     address: бульв. Незалежності, 16 а
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '10139'
+    number: '4'
     address: вул. Грушевського, 9/1
-    phone: (044) 323-02-22
-    extra: до 30 кг на одне місце
+    phone: (044) 323-02-22 (044) 323-15-65
+    extra: до 30 кг
   Буча:
-  - number: '1'
+  - id: '596'
+    number: '1'
     address: вул. Горького, 8
     phone: (044) 323-0-222
     extra: 
   Васильків:
-  - number: '1'
+  - id: '719'
+    number: '1'
     address: вул. Чехова, 3а (територія МРЕВ ДАІ)
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '321'
+    number: '2'
     address: вул. Грушевського, 10
     phone: (044) 323-02-22
     extra: до 30 кг
   Вишгород:
-  - number: '1'
+  - id: '10063'
+    number: '1'
     address: вул. Кургузова, 14
     phone: (044) 323-0-222
     extra: 
-  - number: '2'
+  - id: '283'
+    number: '2'
     address: вул. Київська, 2
     phone: (044) 323-02-22
     extra: до 30 кг
   Вишневе:
-  - number: '1'
+  - id: '59'
+    number: '1'
     address: вул. Київська, 27
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '443'
+    number: '2'
     address: вул. Лесі Українки, 19
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '3'
+  - id: '10074'
+    number: '3'
     address: вул. Леніна, 21а (Соф. Борщагівка)
     phone: 044-323-0-222
-    extra: до 30 кг на одне місце
-  - number: '4'
+    extra: 
+  - id: '10145'
+    number: '4'
     address: с. Софіївська Борщагівка, вул. Л. Українки, 11 (ЖК Софія)
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
+  - id: '10282'
+    number: '5'
+    address: вул. Першотравнева, 10
+    phone: (044) 323-02-22
+    extra: до 30 кг на одне місце
   Володарка:
-  - number: '1'
+  - id: '501'
+    number: '1'
     address: вул. Коцюбинського, 29
     phone: (044) 323-02-22
     extra: 
   Гребінки:
-  - number: '1'
+  - id: '951'
+    number: '1'
     address: вул. Леніна, 38
     phone: (044) 323-0-222
     extra: 
   Димер:
-  - number: '1'
+  - id: '10033'
+    number: '1'
     address: вул. Леніна, 12
     phone: (044) 322-02-22
     extra: 
   Згурівка:
-  - number: '1'
+  - id: '475'
+    number: '1'
     address: вул. Ватутіна, 4
     phone: (044) 323-02-22
     extra: 
   Іванків:
-  - number: '1'
+  - id: '1000'
+    number: '1'
     address: вул. Київська, 23
     phone: (044) 322-0-222
     extra: 
   Ірпінь:
-  - number: '1'
+  - id: '926'
+    number: '1'
     address: вул. Ленінградська, 4б
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '376'
+    number: '2'
     address: смт. Гостомель, вул. Чкалова, 37а (на території "Швидкомийки")
     phone: (044) 323-02-22
     extra: 
-  - number: '3'
+  - id: '10105'
+    number: '3'
     address: пгт. Гостомель, вул. Леніна, 84б
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
   Кагарлик:
-  - number: '1'
+  - id: '661'
+    number: '1'
     address: вул. Незалежності, 22
     phone: (044) 323-0-222
     extra: 
   Калинівка(Васильківський р-н.):
-  - number: '1'
+  - id: '10036'
+    number: '1'
     address: вул. Проектна, 1
     phone: (044) 323-02-22
     extra: 
   Київ:
-  - number: '1'
+  - id: '105'
+    number: '1'
     address: вул. Червонопрапорна, 34 (р-н Видубичі)
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '45'
+    number: '2'
     address: вул. Бережанська,9 (р-н Оболонь)
     phone: (044) 323-02-22
     extra: 
-  - number: '3'
+  - id: '50'
+    number: '3'
     address: вул. Калачівська, 13
     phone: (044) 323-02-22
     extra: 
-  - number: '4'
+  - id: '52'
+    number: '4'
     address: вул. Кричевського, 19 (метро Житомирська)
     phone: (044) 323-02-22
     extra: 
-  - number: '5'
+  - id: '53'
+    number: '5'
     address: вул. Федорова, 32 (метро Республіканський стадіон)
     phone: (044) 323-02-22
     extra: 
-  - number: '6'
+  - id: '74'
+    number: '6'
     address: вул. Миколи Василенка, 2 (метро Берестейська)
     phone: (044) 323-02-22
     extra: 
-  - number: '7'
+  - id: '58'
+    number: '7'
     address: вул. Магнітогорська, 1а
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '57'
+    number: '8'
     address: вул. Щекавицька, 46 б
     phone: (044) 323-02-22
     extra: 
-  - number: '9'
+  - id: '97'
+    number: '9'
     address: пров. В'ячеслава Чорновола, 54а (р-н Жулянського мосту)
     phone: (044) 323-02-22
     extra: 
-  - number: '10'
+  - id: '108'
+    number: '10'
     address: вул. Онуфрія Трутенко, 6 (Голосіївський р-н, метро Васильківська)
     phone: (044) 323-02-22
     extra: 
-  - number: '11'
+  - id: '112'
+    number: '11'
     address: просп. Червонозоряний, 119 (р-н Московської площі)
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '12'
+  - id: '116'
+    number: '12'
     address: вул. Причальна, 5а (заїзд з вул. Здолбунівської)
     phone: (044) 323-02-22
     extra: 
-  - number: '13'
+  - id: '121'
+    number: '13'
     address: вул. Оранжерейна, 3 (метро Дорогожичі)
     phone: (044) 323-02-22
     extra: 
-  - number: '14'
+  - id: '149'
+    number: '14'
     address: вул. Червонопрапорна, 154
     phone: (044) 323-02-22
     extra: 
-  - number: '15'
+  - id: '148'
+    number: '15'
     address: вул. Малинська, 18
     phone: (044) 323-02-22
     extra: 
-  - number: '16'
+  - id: '154'
+    number: '16'
     address: просп. Московський, 16а
     phone: (044) 323-02-22
     extra: 
-  - number: '17'
+  - id: '150'
+    number: '17'
     address: вул. Новокостянтинівська, 22/15
     phone: (044) 323-02-22
     extra: 
-  - number: '18'
+  - id: '163'
+    number: '18'
     address: вул. Молодогвардійська, 22
     phone: (044) 323-02-22
     extra: 
-  - number: '19'
+  - id: '176'
+    number: '19'
     address: бульв. Перова, 40
     phone: (044) 323-02-22
     extra: 
-  - number: '20'
+  - id: '196'
+    number: '20'
     address: пров. Новопечерський, 5
     phone: (044) 323-02-22
     extra: 
-  - number: '21'
+  - id: '221'
+    number: '21'
     address: просп. В. Маяковського, 10
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '22'
+  - id: '261'
+    number: '22'
     address: вул. Ревуцького, 26
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '23'
+  - id: '270'
+    number: '23'
     address: просп. М. Бажана, 24/1
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '24'
+  - id: '291'
+    number: '24'
     address: вул. Білоруська, 21
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '25'
+  - id: '298'
+    number: '25'
     address: просп. Оболонський, 35
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '26'
+  - id: '326'
+    number: '26'
     address: вул. Кіквідзе, 31
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '27'
+  - id: '341'
+    number: '27'
     address: просп. Василя Порика, 13в
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '28'
+  - id: '354'
+    number: '28'
     address: вул. Академіка Корольова, 2а
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '29'
+  - id: '368'
+    number: '29'
     address: вул. Васильківська, 11/11
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '30'
+  - id: '431'
+    number: '30'
     address: вул. Привокзальна, 14
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '31'
+  - id: '461'
+    number: '31'
     address: вул. Московська, 5/2а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '32'
+  - id: '467'
+    number: '32'
     address: вул. Каховська, 60
     phone: (044) 323-02-22
     extra: 
-  - number: '33'
+  - id: '489'
+    number: '33'
     address: вул. Закревського, 18
     phone: (044) 323-02-22
     extra: 
-  - number: '34'
+  - id: '503'
+    number: '34'
     address: вул. Ташкентська, 60
     phone: (044) 323-02-22
     extra: 
-  - number: '35'
+  - id: '522'
+    number: '35'
     address: вул. Фучіка, 3
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '36'
+  - id: '523'
+    number: '36'
     address: вул. Щусєва, 34/1
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '37'
-    address: вул. Маршала Жукова, 33 А
+  - id: '528'
+    number: '37'
+    address: вул. Маршала Жукова, 33А
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '38'
+  - id: '541'
+    number: '38'
     address: вул. Миколи Закревського, 21
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '39'
+  - id: '550'
+    number: '39'
     address: просп. Героїв Сталінграду, 25 а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '40'
+  - id: '563'
+    number: '40'
     address: вул. Героїв Севастополя, 23 а
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '41'
+  - id: '557'
+    number: '41'
     address: вул. Дніпровська набережна, 13
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '42'
+  - id: '604'
+    number: '42'
     address: вул. Щербакова, 32/38
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '43'
+  - id: '610'
+    number: '43'
     address: вул. Голосіївська, 2
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '44'
+  - id: '612'
+    number: '44'
     address: просп. Лісний, 14
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '45'
+  - id: '619'
+    number: '45'
     address: просп. Юрія Гагаріна, 13
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '46'
+  - id: '616'
+    number: '46'
     address: бульв Дружби Народів, 14
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '47'
+  - id: '669'
+    number: '47'
     address: вул. Вишгородська, 38
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '48'
+  - id: '748'
+    number: '48'
     address: вул. Кіквідзе, 7/11
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '49'
+  - id: '794'
+    number: '49'
     address: вул. Лайоша Гавро, 1
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '50'
+  - id: '795'
+    number: '50'
     address: просп. Перемоги, 7в
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '51'
+  - id: '793'
+    number: '51'
     address: вул. Червоноткацька, 91
     phone: (044) 323-02-22
     extra: 
-  - number: '52'
+  - id: '857'
+    number: '52'
     address: просп. М.Бажана, 3
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '53'
+  - id: '892'
+    number: '53'
     address: вул. Ромена Ролана, 7
     phone: (044) 323-02-22
     extra: 
-  - number: '54'
+  - id: '893'
+    number: '54'
     address: просп. Палладіна, 25, а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '55'
+  - id: '891'
+    number: '55'
     address: вул. Островського, 60
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '56'
+  - id: '925'
+    number: '56'
     address: вул. Смолича, 2а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '57'
+  - id: '971'
+    number: '57'
     address: вул. Костянтинівська, 24
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '58'
+  - id: '986'
+    number: '58'
     address: вул. Виборзька, 49
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '59'
+  - id: '10002'
+    number: '59'
     address: вул. Воровського, 39/11
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '60'
+  - id: '10011'
+    number: '60'
     address: вул. Дніпровська набережна, 26 і
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '61'
+  - id: '10009'
+    number: '61'
     address: просп. Повітрофлотський, 48/2
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '62'
+  - id: '10066'
+    number: '62'
     address: просп. Григоренка, 22/20
     phone: (044) 323-0-222
     extra: до 30 кг на одне місце
-  - number: '63'
+  - id: '10106'
+    number: '63'
     address: вул. Андріївська ,11/7
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
-  - number: '64'
+  - id: '10081'
+    number: '64'
     address: вул. Васильківська, 55
     phone: 044-323-0-222
     extra: до 30 кг
-  - number: '65'
+  - id: '10099'
+    number: '65'
     address: вул. Майорова, 7
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '66'
+  - id: '10124'
+    number: '66'
     address: вул. Сирецька, 9
     phone: (044) 323-02-22
     extra: 
-  - number: '67'
+  - id: '10116'
+    number: '67'
     address: вул. К. Данькевича, 16
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '68'
+  - id: '10129'
+    number: '68'
     address: вул. Бориса Гмирі, 1
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '69'
+  - id: '10133'
+    number: '69'
     address: вул. Радунська, 5а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '70'
+  - id: '10148'
+    number: '70'
     address: просп. Перемоги, 20
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '71'
+  - id: '10172'
+    number: '71'
     address: вул. Попудренка, 22/14
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '72'
+  - id: '10183'
+    number: '72'
     address: вул. Артема, 14
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '73'
+  - id: '10196'
+    number: '73'
     address: вул. Прорізна, 9
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '74'
+  - id: '10213'
+    number: '74'
     address: вул. Межигірська, 56
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '75'
+  - id: '10220'
+    number: '75'
     address: вул. Володимирська, 96а
     phone: (044) 323-02-22
     extra: до 30 кг
-  - number: '76'
+  - id: '10227'
+    number: '76'
     address: просп. Перемоги, 108/1
     phone: (044) 323-02-22
     extra: до 30 кг
+  - id: '10249'
+    number: '77'
+    address: просп. Героїв Сталінграду, 55
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10250'
+    number: '78'
+    address: вул. Магнітогорська, 1а (ДАРИНОК)
+    phone: (044) 323-0-222
+    extra: до 30 кг
+  - id: '10256'
+    number: '79'
+    address: вул. Світлицького, 30/20
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10257'
+    number: '80'
+    address: Харківське шосе, 150/15
+    phone: (044) 323-0-222
+    extra: до 30 кг
+  - id: '10263'
+    number: '81'
+    address: вул. Саксаганського, 102
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10265'
+    number: '82'
+    address: вул. Горького, 157
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10266'
+    number: '83'
+    address: вул. Мечникова, 10/2
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10269'
+    number: '84'
+    address: вул. Курнатовського, 15
+    phone: (044) 323-0-222
+    extra: до 30 кг на одне місце
+  - id: '10283'
+    number: '85'
+    address: вул. Маршала Гречко, 24
+    phone: 044-323-02-22
+    extra: до 30 кг
+  - id: '10286'
+    number: '86'
+    address: бульв. Лесі Українки, 24
+    phone: (044) 323-02-22
+    extra: до 30 кг
+  - id: '10290'
+    number: '87'
+    address: вул. Княжий Затон, 14б
+    phone: (044) 323-02-22
+    extra: до 30 кг
   Клавдієво-Тарасове:
-  - number: '1'
+  - id: '10070'
+    number: '1'
     address: вул. Леніна, 7
     phone: (044) 323-02-22
     extra: 
   Коцюбинське:
-  - number: '1'
+  - id: '10102'
+    number: '1'
     address: вул. Доківська, 5б
     phone: (044) 323-02-22
     extra: 
   Макарів:
-  - number: '1'
+  - id: '338'
+    number: '1'
     address: вул. Набережна, 4
     phone: (044) 323-02-22
     extra: 
   Миронівка:
-  - number: '1'
+  - id: '381'
+    number: '1'
     address: вул. 40-річчя Перемоги, 10б
     phone: (044) 323-02-22
     extra: 
   Немішаєве:
-  - number: '1'
+  - id: '10159'
+    number: '1'
     address: вул. 50 років СРСР, 1/1
     phone: (044) 323-02-22
     extra: 
   Нові Петрівці:
-  - number: '1'
+  - id: '10163'
+    number: '1'
     address: вул. Леніна, 222
     phone: (044) 323-02-22
     extra: 
+  Новосілки:
+  - id: '10275'
+    number: '1'
+    address: вул. Васильківська, 2а
+    phone: (0443) 23-02-22
+    extra: 
   Обухів:
-  - number: '1'
+  - id: '84'
+    number: '1'
     address: пров. Заводський, 3
     phone: (044) 323-02-22
     extra: 
-  - number: '2'
+  - id: '954'
+    number: '2'
     address: вул. Київська, 121ж
     phone: (044) 323-02-22
     extra: до 30 кг на одне місце
+  - id: '10278'
+    number: '3'
+    address: вул. Каштанова, 9б
+    phone: (044) 323-02-22
+    extra: до 30 кг
   Переяслав-Хмельницький:
-  - number: '1'
+  - id: '353'
+    number: '1'
     address: вул. Богдана Хмельницького, 180в
     phone: (044) 323-02-22
     extra: 
   Ржищів:
-  - number: '1'
+  - id: '10146'
+    number: '1'
     address: Відділення, вул. Петровського, 38
     phone: (044)-323-02-22
     extra: 
   Рокитне(Біла Церква):
-  - number: '1'
+  - id: '887'
+    number: '1'
     address: вул. Першотравнева, 13
     phone: (044) 323-0-222
     extra: 
   Сквира:
-  - number: '1'
+  - id: '588'
+    number: '1'
     address: вул. Рози Люксембург, 16
     phone: (044) 323-0-222
     extra: 
   Ставище:
-  - number: '1'
+  - id: '722'
+    number: '1'
     address: вул. Леніна, 7а
     phone: (044) 323-02-22
     extra: 
   Стоянка:
-  - number: '1'
+  - id: '269'
+    number: '1'
     address: Житомирське шосе, 21 (склад Mary Kay)
     phone: (044) 323-02-22
     extra: 
   Тараща:
-  - number: '1'
+  - id: '717'
+    number: '1'
     address: вул. Червоноармійська, 29 а, павільйон 15
     phone: (044) 323-0-222
     extra: 
   Тетіїв:
-  - number: '1'
+  - id: '322'
+    number: '1'
     address: вул. Комсомольська, 3 ц
     phone: (044) 323-02-22
     extra: 
   Узин:
-  - number: '1'
+  - id: '950'
+    number: '1'
     address: вул. Першотравнева, 8а, буд. 8
     phone: (044) 323-0-222
     extra: 
   Українка:
-  - number: '1'
+  - id: '10076'
+    number: '1'
     address: вул. Юності, 8
     phone: 044-323-02-22
     extra: 
   Фастів:
-  - number: '1'
+  - id: '455'
+    number: '1'
     address: вул. Кірова, 34
     phone: (044) 323-02-22
     extra: 
+  - id: '10285'
+    number: '2'
+    address: вул. Л.Толстого, 6
+    phone: (044) 323-02-22
+    extra: до 30 кг
   Яготин:
-  - number: '1'
+  - id: '383'
+    number: '1'
     address: вул. Незалежності, 144
     phone: (044) 323-02-22
     extra: 
 Чернігівська область:
   Бахмач:
-  - number: '1'
+  - id: '408'
+    number: '1'
     address: вул. Ярослава Мудрого, 24
     phone: (0542) 702-434
     extra: 
   Бобровиця:
-  - number: '1'
+  - id: '517'
+    number: '1'
     address: вул. Незалежності,  65а (приміщення будинку "Побуту")
     phone: (0462) 968-628
     extra: 
   Борзна:
-  - number: '1'
+  - id: '470'
+    number: '1'
     address: вул. Свердлова, 12в
     phone: (0462) 968-628
     extra: 
   Варва:
-  - number: '1'
+  - id: '393'
+    number: '1'
     address: вул. Миру, 26
     phone: (0443) 23-02-22
     extra: 
   Городня:
-  - number: '1'
+  - id: '666'
+    number: '1'
     address: вул. Леніна, 3
     phone: (0462) 968-628
     extra: 
   Ічня:
-  - number: '1'
+  - id: '385'
+    number: '1'
     address: вул. Коваля, 1
     phone: (0462) 968-628
     extra: 
   Козелець:
-  - number: '1'
+  - id: '446'
+    number: '1'
     address: вул. Комсомольська, 40
     phone: (0462) 968-628
     extra: 
   Короп:
-  - number: '1'
+  - id: '504'
+    number: '1'
     address: вул. Горького, 3
     phone: (0542) 702-434
     extra: 
   Корюківка:
-  - number: '1'
+  - id: '440'
+    number: '1'
     address: пров. Вокзальний, 6
     phone: (0462) 968-628
     extra: 
   Куликівка:
-  - number: '1'
+  - id: '735'
+    number: '1'
     address: вул. Щорса, 61
     phone: (0462) 968-628
     extra: 
   Мена:
-  - number: '1'
+  - id: '392'
+    number: '1'
     address: вул. Червоноармійська, 1
     phone: (0462) 968-628
     extra: 
   Ніжин:
-  - number: '1'
+  - id: '113'
+    number: '1'
     address: вул. Генерала Корчагіна, 2
     phone: (0462) 968-628
     extra: 
-  - number: '2'
+  - id: '942'
+    number: '2'
     address: вул. Московська, 11
     phone: (0462) 968-628
     extra: до 30 кг
   Новгород-Сіверський:
-  - number: '1'
+  - id: '414'
+    number: '1'
     address: вул. Шевченка, 23
     phone: (0542) 790-459
     extra: 
   Носівка:
-  - number: '1'
+  - id: '305'
+    number: '1'
     address: вул. Вокзальна, 2
     phone: (0462) 968-628
     extra: 
   Прилуки:
-  - number: '1'
+  - id: '119'
+    number: '1'
     address: вул. Ю. Коптєва, 61
     phone: (0462) 968-628
     extra: 
-  - number: '2'
+  - id: '10169'
+    number: '2'
     address: вул. Першого Травня, 82
     phone: (0462) 968-628
     extra: до 30 кг
+  - id: '10253'
+    number: '3'
+    address: вул. Київська, 273/5
+    phone: (046) 296-86-28
+    extra: до 30 кг
   Ріпки:
-  - number: '1'
+  - id: '903'
+    number: '1'
     address: вул. Попудренка, 23
     phone: (0462) 968-628
     extra: 
   Семенівка(Чернігівська обл.):
-  - number: '1'
+  - id: '10100'
+    number: '1'
     address: вул. Червона Площа, 58
     phone: (0542) 702-434
     extra: 
   Славутич:
-  - number: '1'
+  - id: '492'
+    number: '1'
     address: вул. Таллінський квартал, 7а
     phone: (0462) 968-628
     extra: 
   Сосниця:
-  - number: '1'
+  - id: '602'
+    number: '1'
     address: вул. Виноградського, 19 а
     phone: (0462) 968-628
     extra: 
   Срібне:
-  - number: '1'
+  - id: '890'
+    number: '1'
     address: вул. Леніна, 92
     phone: (0462) 968-628
     extra: 
   Талалаївка:
-  - number: '1'
+  - id: '901'
+    number: '1'
     address: вул. Робітнича, 5
     phone: (0542) 702-434
     extra: 
   Чернігів:
-  - number: '1'
+  - id: '20'
+    number: '1'
     address: вул. Старобілоуська, 16 а
     phone: (0462) 968-628
     extra: 
-  - number: '2'
+  - id: '161'
+    number: '2'
     address: просп. Перемоги, 50
     phone: (0462) 968-628
     extra: до 30 кг
-  - number: '3'
+  - id: '307'
+    number: '3'
     address: вул. Горького, 51
     phone: (0462) 968-628
     extra: до 30 кг
-  - number: '4'
+  - id: '589'
+    number: '4'
     address: вул. Рокоссовського, 68
     phone: (0462) 968-628
     extra: до 10 кг
-  - number: '5'
+  - id: '820'
+    number: '5'
     address: вул. Інструментальна, 30
     phone: (0462) 968-628
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '10090'
+    number: '6'
     address: вул. Шевченко, 46
     phone: (0462) 968-628
     extra: до 30 кг
-  - number: '7'
+  - id: '10171'
+    number: '7'
     address: просп. Миру, 50
     phone: (0462) 968-628
     extra: до 30 кг
   Щорс:
-  - number: '1'
+  - id: '601'
+    number: '1'
     address: вул. Фрунзе, 4
     phone: (0462) 968-628
     extra: 
-Миколаївська область:
-  Баштанка:
-  - number: '1'
-    address: вул. Театральна, 1
-    phone: (0512) 45-13-60
-    extra: 
-  Березанка:
-  - number: '1'
-    address: вул. Леніна, 80
-    phone: (0512) 45-13-60
-    extra: 
-  Березнегувате:
-  - number: '1'
-    address: вул. 1-го травня, 84
-    phone: (0512) 45-13-60
-    extra: 
-  Братське:
-  - number: '1'
-    address: вул. Леніна, 73
-    phone: (0512) 45-13-60
-    extra: 
-  Веселинове:
-  - number: '1'
-    address: вул. Леніна, 30
-    phone: (0512) 45-13-60
-    extra: 
-  Вознесенськ:
-  - number: '1'
-    address: вул. Кірова, 16/6
-    phone: (0512) 45-13-60
-    extra: 
-  Врадіївка:
-  - number: '1'
-    address: вул. Героїв Врадіївщини, 162
-    phone: (0512) 45-13-60
-    extra: 
-  Доманівка:
-  - number: '1'
-    address: вул.Кузнечна, 1
-    phone: (0512) 45-13-60
-    extra: 
-  Єланець:
-  - number: '1'
-    address: вул. Карла Маркса, 125
-    phone: (0512) 45-13-60
-    extra: 
-  Казанка:
-  - number: '1'
-    address: Відділення; вул. Миру, 207-а
-    phone: (0564) 999-630
-    extra: 
-  Криве Озеро:
-  - number: '1'
-    address: вул. Шевченка, 6
-    phone: (0512) 451-360
-    extra: 
-  Миколаїв:
-  - number: '1'
-    address: вул. 1-а Слобідська, 62
-    phone: (0512) 45-13-60
-    extra: 
-  - number: '2'
-    address: вул. Морехідна, 1а
-    phone: (0512) 45-13-60
-    extra: 
-  - number: '3'
-    address: вул. Електронна, 81/7
-    phone: (0512) 45-13-60
-    extra: 
-  - number: '4'
-    address: просп. Жовтневий, 330
-    phone: (0512) 45-13-60
-    extra: до 30 кг на одне місце
-  - number: '5'
-    address: просп. Героїв Сталінграду, 77/1
-    phone: (0512) 45-13-60
-    extra: 
-  - number: '6'
-    address: вул. Радянська, 13/4
-    phone: (0512) 451-360
-    extra: до 30 кг
-  - number: '7'
-    address: вул. Космонавтів, 62
-    phone: (0512) 45-13-60
-    extra: до 30 кг
-  - number: '8'
-    address: вул. Нікольська, 49
-    phone: (0512) 45-13-60
-    extra: до 30 кг
-  - number: '9'
-    address: вул. Генерала Карпенка, 2/2 а
-    phone: (0512) 45-13-60
-    extra: до 30 кг на одне місце
-  - number: '10'
-    address: просп. Леніна, 86/3
-    phone: (0512) 451-360
-    extra: до 30 кг
-  - number: '11'
-    address: просп. Миру, 13
-    phone: (0512) 45-13-60
-    extra: до 30 кг
-  - number: '12'
-    address: вул. Пушкінська, 33
-    phone: (0512) 45-13-60
-    extra: до 30 кг на одне місце
-  - number: '13'
-    address: вул. Червоних Майовщиків, 17/7
-    phone: (0512) 45-13-60
-    extra: до 30 кг на одне місце
-  Нова Одеса:
-  - number: '1'
-    address: вул. Леніна, 175
-    phone: (0512) 451-360
-    extra: 
-  Новий Буг:
-  - number: '1'
-    address: вул. Червона Площа, 26
-    phone: (0512) 451-360
-    extra: 
-  Очаків:
-  - number: '1'
-    address: вул. Луначарського, 18
-    phone: (0512) 451-360
-    extra: 
-  Первомайськ(Миколаїв):
-  - number: '1'
-    address: вул. Вознесенська, 52
-    phone: (0512) 451-360
-    extra: 
-  - number: '2'
-    address: вул. Достоєвського, 2а
-    phone: (0512) 451-360
-    extra: до 30 кг
-  - number: '3'
-    address: вул. Радянська, 39
-    phone: (0512) 451-360
-    extra: до 30 кг на одне місце
-  Снігурівка:
-  - number: '1'
-    address: вул. Жовтнева, 111
-    phone: (0512) 451-360
-    extra: 
-  Южноукраїнськ:
-  - number: '1'
-    address: бульв. Шевченка, 14
-    phone: (0512) 451-360
-    extra: 
 Закарпатська область:
   Берегове:
-  - number: '1'
+  - id: '413'
+    number: '1'
     address: вул. Мукачівська, 190
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
   Великий Березний:
-  - number: '1'
+  - id: '10101'
+    number: '1'
     address: вул. Штефаника, 3
     phone: (0312) 48-80-91
     extra: 
   Великий Бичків:
-  - number: '1'
+  - id: '10174'
+    number: '1'
     address: вул. Промислова, 26
-    phone: (031) 313-53-13
+    phone: (0312) 48-80-92
     extra: 
   Виноградів:
-  - number: '1'
+  - id: '737'
+    number: '1'
     address: вул. І.Франка,110
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
   Іршава:
-  - number: '1'
+  - id: '959'
+    number: '1'
     address: вул. Заводська, 10
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
   Міжгір'я:
-  - number: '1'
+  - id: '10057'
+    number: '1'
     address: вул. Промислова, 3
-    phone: (0313) 13-53-13
+    phone: (0312) 48-80-92
     extra: 
   Мукачеве:
-  - number: '1'
+  - id: '2'
+    number: '1'
     address: вул. Академіка Морозова, 20
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
-  - number: '2'
+  - id: '464'
+    number: '2'
     address: вул. Миру, 55
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: до 30 кг
-  - number: '3'
+  - id: '952'
+    number: '3'
     address: вул. Осипенка, 35в
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: до 30 кг
+  - id: '10254'
+    number: '4'
+    address: вул. Коммунарів, 36
+    phone: (0312) 48-80-92
+    extra: до 30 кг на одне місце
   Нижні Ворота:
-  - number: '1'
+  - id: '10061'
+    number: '1'
     address: вул. Садова, 1
-    phone: 0313-13-53-13
+    phone: (0312) 48-80-92
     extra: 
   Перечин:
-  - number: '1'
+  - id: '10029'
+    number: '1'
     address: площа Народна, 17
     phone: (0312) 48-80-91
     extra: 
   Рахів:
-  - number: '1'
+  - id: '10013'
+    number: '1'
     address: вул. Карпатська, 12
-    phone: 0313-13-53-13
+    phone: (0312) 48-80-92
     extra: 
   Свалява:
-  - number: '1'
+  - id: '980'
+    number: '1'
     address: вул. Шевченка, 2/2
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
   Тячів:
-  - number: '1'
+  - id: '823'
+    number: '1'
     address: вул. Пролетарська, 2
-    phone: (03131) 3-53-13
+    phone: (0312) 48-80-92
     extra: 
   Ужгород:
-  - number: '1'
+  - id: '5'
+    number: '1'
     address: вул. Гагаріна, 36
     phone: (0312) 48-80-91
     extra: 
-  - number: '2'
+  - id: '300'
+    number: '2'
     address: просп. Свободи, 2в (шістнадцятиповерхівка)
     phone: (0312) 48-80-91
     extra: до 10 кг
-  - number: '3'
+  - id: '821'
+    number: '3'
     address: вул. Берчені, 48
     phone: (0312) 48-80-91
     extra: до 30 кг
-  - number: '4'
+  - id: '976'
+    number: '4'
     address: вул. Капушанська,154а
     phone: (0312) 48-80-91
     extra: до 30 кг
-  - number: '5'
+  - id: '10122'
+    number: '5'
     address: вул. Грушевського, 74а
     phone: (0312) 48-80-91
     extra: до 30 кг
-  - number: '6'
+  - id: '10218'
+    number: '6'
     address: вул. Івана Франка, 56
     phone: (0312) 48-80-91
     extra: до 30 кг
   Хуст:
-  - number: '1'
-    address: вул. Львівська, 190
-    phone: (03131) 3-53-13
+  - id: '267'
+    number: '1'
+    address: вул. Тімірязєва, 37
+    phone: (0312) 48-80-92
     extra: 
   Чоп:
-  - number: '1'
+  - id: '10223'
+    number: '1'
     address: вул. Головна, 29а
     phone: (0312) 24-88-091
     extra: 
   Ясіня:
-  - number: '1'
+  - id: '10175'
+    number: '1'
     address: вул. Миру, 48
-    phone: (031) 313-53-13
+    phone: (0312) 48-80-92
     extra: 
 Тернопільска область:
   Бережани:
-  - number: '1'
+  - id: '629'
+    number: '1'
     address: вул. І. Франка, 2
     phone: (0352) 561-291
     extra: 
   Борщів:
-  - number: '1'
+  - id: '765'
+    number: '1'
     address: вул. М.Кривоноса, 2
     phone: (0352) 561-291
     extra: 
   Бучач:
-  - number: '1'
+  - id: '625'
+    number: '1'
     address: вул. Шухевича, 28
     phone: (0352) 561-291
     extra: 
   Гусятин:
-  - number: '1'
+  - id: '841'
+    number: '1'
     address: вул. Суходільська, 13а
     phone: (0352) 561-291
     extra: 
-  - number: '2'
+  - id: '10038'
+    number: '2'
     address: Копичинці, вул. Шевченка, 8 (біля Укрпошти)
     phone: (0352) 47-08-30
     extra: 
   Заліщики:
-  - number: '1'
+  - id: '764'
+    number: '1'
     address: вул. Стефаника, 26а
     phone: (0352) 561-291
     extra: 
   Збараж:
-  - number: '1'
+  - id: '902'
+    number: '1'
     address: вул. Чехова, 7
     phone: (0352) 561-291
     extra: 
   Зборів:
-  - number: '1'
+  - id: '674'
+    number: '1'
     address: вул. Б.Хмельницького, 58
     phone: (0352) 561-291
     extra: 
   Козова:
-  - number: '1'
+  - id: '10008'
+    number: '1'
     address: вул. Тернопільська, 7
     phone: (0352) 561-291
     extra: 
-  Копичинці:
-  - number: '1'
-    address: вул.Шевченка,8 (Гусятинський район, біля Укрпошти)
-    phone: (0352) 561-291
+  Копичинці (Гусятинський р-н):
+  - id: '10039'
+    number: '1'
+    address: вул. Ринок, 34 (Гусятинський район)
+    phone: (0352) 56-12-91
     extra: 
   Кременець:
-  - number: '1'
+  - id: '651'
+    number: '1'
     address: вул. Дубенська, 137
     phone: (0352) 561-291
     extra: 
   Ланівці:
-  - number: '1'
+  - id: '843'
+    number: '1'
     address: вул. Грушевського, 2
     phone: (0352) 561-291
     extra: 
   Монастириська:
-  - number: '1'
+  - id: '911'
+    number: '1'
     address: вул. Січових Стрільців, 8
     phone: (0352) 561-291
     extra: 
   Підволочиськ:
-  - number: '1'
+  - id: '10143'
+    number: '1'
     address: вул. Лисенка, 20 А
     phone: (0352) 561-291
     extra: 
   Підгайці:
-  - number: '1'
+  - id: '979'
+    number: '1'
     address: вул. Бережанська, 2
     phone: (0352) 561-291
     extra: 
   Почаїв:
-  - number: '1'
+  - id: '10094'
+    number: '1'
     address: вул. Ярослава Мудрого, 52 (Район Автовокзалу - Лаври)
     phone: (0352) 561-291
     extra: 
   Теребовля:
-  - number: '1'
+  - id: '978'
+    number: '1'
     address: вул. 22 січня
     phone: (0352) 561-291
     extra: 
   Тернопіль:
-  - number: '1'
+  - id: '486'
+    number: '1'
     address: вул. Подільська, 21
     phone: (0352) 561-291
     extra: 
-  - number: '2'
+  - id: '290'
+    number: '2'
     address: вул. Руська, 8
     phone: (0352) 561-291
     extra: до 10 кг
-  - number: '3'
+  - id: '6'
+    number: '3'
     address: вул. Західна, 2
     phone: (0352) 561-291
     extra: 
-  - number: '4'
+  - id: '513'
+    number: '4'
     address: просп. Злуки, 8
     phone: (0352) 561-291
     extra: до 30 кг
-  - number: '5'
+  - id: '728'
+    number: '5'
     address: вул. Анатолія Живова, 37
     phone: (0352) 561-291
     extra: до 30 кг
-  - number: '6'
+  - id: '928'
+    number: '6'
     address: просп. Степана Бандери, 80
     phone: (0352) 561-291
     extra: до 30 кг
-  - number: '7'
+  - id: '10043'
+    number: '7'
     address: вул. Леся Курбаса, 5
     phone: (0352) 561-291
     extra: до 30 кг
-  - number: '8'
+  - id: '10199'
+    number: '8'
     address: вул. Медова, 6
     phone: (0352) 561-291
     extra: до 30 кг
   Хоростків:
-  - number: '1'
+  - id: '10222'
+    number: '1'
     address: вул. Незалежності, 60
     phone: (0352) 47-08-30
     extra: 
   Чортків:
-  - number: '1'
+  - id: '815'
+    number: '1'
     address: вул. Залізнична, 87
     phone: (0352) 561-291
     extra: 
   Шумськ:
-  - number: '1'
+  - id: '646'
+    number: '1'
     address: вул. Українська, 36
     phone: (0352) 561-291
     extra: 
 Рівненська область:
   Березне:
-  - number: '1'
+  - id: '613'
+    number: '1'
     address: вул. І. Франка, 2 а (ТЦ Гранд)
     phone: (0362) 420-462.
     extra: 
   Володимирець:
-  - number: '1'
+  - id: '597'
+    number: '1'
     address: вул. Шкільна, 30 (біля заводу Ситал)
     phone: (0362) 420-462.
     extra: 
   Гоща:
-  - number: '1'
+  - id: '818'
+    number: '1'
     address: вул. Рівненська, 9а
     phone: (0362) 420-462.
     extra: 
+  Демидівка:
+  - id: '10292'
+    number: '1'
+    address: вул. 17-ого Вересня, 10
+    phone: (0362) 42-04-62
+    extra: 
   Дубно:
-  - number: '1'
+  - id: '120'
+    number: '1'
     address: вул. Грушевського, 119
     phone: (0362) 420-462.
     extra: 
-  - number: '2'
+  - id: '805'
+    number: '2'
     address: вул. Свободи, 7
     phone: (0362) 420-462.
     extra: до 30 кг
   Дубровиця:
-  - number: '1'
+  - id: '801'
+    number: '1'
     address: вул. Нова, 15
     phone: (0362) 420-462.
     extra: 
   Зарічне:
-  - number: '1'
+  - id: '10042'
+    number: '1'
     address: вул. Партизанська, 3
     phone: (0362) 420-462.
     extra: 
   Здолбунів:
-  - number: '1'
+  - id: '796'
+    number: '1'
     address: вул. Незалежності, 42
     phone: (0362) 420-462.
     extra: 
   Квасилів:
-  - number: '1'
+  - id: '10201'
+    number: '1'
     address: вул. Молодіжна, 2Д
     phone: (0362) 420-462.
     extra: 
   Клевань:
-  - number: '1'
+  - id: '990'
+    number: '1'
     address: вул. Богдана Хмельницького, 26
-    phone: (0362) 45-48-00
+    phone: (0362) 420-462
     extra: 
   Корець:
-  - number: '1'
+  - id: '195'
+    number: '1'
     address: с. Гвоздів, вул. Перемоги, 2г
     phone: (0362) 420-462.
     extra: 
   Костопіль:
-  - number: '1'
-    address: вул. Бурова, 2а
+  - id: '350'
+    number: '1'
+    address: вул. Рівненська, 107
     phone: (0362) 420-462.
     extra: 
   Кузнецовськ:
-  - number: '1'
+  - id: '543'
+    number: '1'
     address: вул. Енергетиків, 5
     phone: (0362) 420-462.
     extra: 
-  - number: '2'
+  - id: '900'
+    number: '2'
     address: мікрорайон Ювілейний N1, ринок Північний, кіоск N90
     phone: (0362) 420-462.
     extra: до 30 кг
   Млинів:
-  - number: '1'
+  - id: '351'
+    number: '1'
     address: вул. Поліщука, 61
     phone: (0362) 420-462.
     extra: 
   Оженин:
-  - number: '1'
+  - id: '10155'
+    number: '1'
     address: вул. Мирна, 21
     phone: (0362) 420-462.
     extra: 
   Острог:
-  - number: '1'
+  - id: '700'
+    number: '1'
     address: вул. Князів Острозьких, 3
     phone: (0362) 420-462.
     extra: 
   Радивилів:
-  - number: '1'
+  - id: '506'
+    number: '1'
     address: вул. Волковенка, 1а
     phone: (0362) 420-462.
     extra: 
   Рівне:
-  - number: '1'
+  - id: '18'
+    number: '1'
     address: вул. Князя Володимира 109а
     phone: (0362) 420-462.
     extra: 
-  - number: '2'
+  - id: '55'
+    number: '2'
     address: вул. Чорновола, 14/16
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '3'
+  - id: '133'
+    number: '3'
     address: вул. Дубенська БОС, 1 (біля кафе "Зірочка")
     phone: (0362) 420-462.
     extra: 
-  - number: '4'
+  - id: '252'
+    number: '4'
     address: вул. Степана Бандери, 59
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '5'
-    address: просп. Миру, 9 (біля кафе "Гавана")
-    phone: (0362) 420-462.
+  - id: '425'
+    number: '5'
+    address: просп. Миру, 13
+    phone: (0362) 420-462
     extra: до 30 кг
-  - number: '6'
+  - id: '581'
+    number: '6'
     address: Київська, 44 (біля кафе Мономах)
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '7'
+  - id: '626'
+    number: '7'
     address: вул. Корольова, 15 а (біля авторинку)
     phone: (0362) 420-462.
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '690'
+    number: '8'
     address: вул. Київська, 21
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '9'
+  - id: '715'
+    number: '9'
     address: вул. Євгена Коновальця, 14 (р-н Північний)
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '10'
+  - id: '882'
+    number: '10'
     address: вул. Пересопницька, 58 (біля Драмтеатру)
     phone: (0362) 420-462.
     extra: до 30 кг
-  - number: '11'
+  - id: '949'
+    number: '11'
     address: вул. Фабрична, 1
     phone: (0362) 420-462.
     extra: 
   Рокитне(Рівне):
-  - number: '1'
+  - id: '817'
+    number: '1'
     address: вул. Івана Франка, 6а
     phone: (0362) 420-462.
     extra: 
   Сарни:
-  - number: '1'
+  - id: '943'
+    number: '1'
     address: вул. Варшавська, 2є
     phone: (0362) 420-462.
     extra: 
-  - number: '2'
+  - id: '202'
+    number: '2'
     address: вул. Широка, 13
     phone: (0362) 420-462.
     extra: до 30 кг
   Смига:
-  - number: '1'
+  - id: '10073'
+    number: '1'
     address: вул. Шкільна, 23
     phone: (0362) 420-462.
     extra: 
 Херсонська область:
-  Берислав:
-  - number: '1'
+  Берислав (Херсонська обл.):
+  - id: '654'
+    number: '1'
     address: вул.Леніна 224
     phone: (0552) 701-244
     extra: 
   Білозерка:
-  - number: '1'
+  - id: '968'
+    number: '1'
     address: вул. Карла Маркса, 98
     phone: (0552) 701-244
     extra: 
   Велика Лепетиха:
-  - number: '1'
+  - id: '839'
+    number: '1'
     address: вул. Чкалова, 7
     phone: (0552) 701-244
     extra: 
   Велика Олександрівка:
-  - number: '1'
+  - id: '10054'
+    number: '1'
     address: вул. Леніна, 107
     phone: (0552) 701-244
     extra: 
   Великі Копані:
-  - number: '1'
+  - id: '10136'
+    number: '1'
     address: вул. Радянська, 12
     phone: (0552)-70-12-44
     extra: 
   Верхній Рогачик:
-  - number: '1'
+  - id: '10115'
+    number: '1'
     address: пров. Поштовий, 4/4
     phone: (0612)-14-10-14
     extra: 
   Високопілля:
-  - number: '1'
+  - id: '10028'
+    number: '1'
     address: вул. Леніна, 34
     phone: (0564) 999-630
     extra: 
   Генічеськ:
-  - number: '1'
+  - id: '309'
+    number: '1'
     address: вул. Чкалова, 93
     phone: 061) 214-10-14
     extra: 
-  - number: '2'
+  - id: '10153'
+    number: '2'
     address: вул. Братів Коваленко, 54
     phone: 061) 214-10-14
     extra: до 30 кг
   Гола Пристань:
-  - number: '1'
-    address: вул. 1-го Травня, 29а
+  - id: '457'
+    number: '1'
+    address: вул. 1-го Травня, 3 (біля автовокзалу)
     phone: (0552) 701-244
     extra: 
   Горностаївка:
-  - number: '1'
+  - id: '698'
+    number: '1'
     address: вул. Леніна, 130
     phone: (0552) 701-244
     extra: 
   Іванівка(Мелітополь):
-  - number: '1'
+  - id: '995'
+    number: '1'
     address: вул. Щорса, 6
     phone: (0552) 70-12-44
     extra: 
   Каланчак:
-  - number: '1'
+  - id: '681'
+    number: '1'
     address: вул. Піонерська, 77-а
     phone: (0552) 701-244
     extra: 
   Каховка:
-  - number: '1'
+  - id: '463'
+    number: '1'
     address: вул. Карла Лібкнехта, 120
     phone: (0552) 701-244
     extra: 
-  - number: '2'
+  - id: '965'
+    number: '2'
     address: вул. Пушкіна, 93
     phone: (0552) 701-244
     extra: до 30 кг
   Нова Каховка:
-  - number: '1'
+  - id: '69'
+    number: '1'
     address: вул. Промислова, 5
     phone: (0552) 701-244
     extra: 
-  - number: '2'
+  - id: '614'
+    number: '2'
     address: вул. Горького, 7а
     phone: (0552) 701-244
     extra: до 30 кг
   Нововоронцовка:
-  - number: '1'
+  - id: '10078'
+    number: '1'
     address: вул. Гагаріна, 5
     phone: (0564) 999-630
     extra: 
   Новотроїцьке:
-  - number: '1'
+  - id: '759'
+    number: '1'
     address: вул. Пушкіна, 8 а
     phone: (0552) 701-244
     extra: 
   Скадовськ:
-  - number: '1'
+  - id: '274'
+    number: '1'
     address: вул. Паризької Комуни, 103
     phone: (0552) 701-244
     extra: 
   Херсон:
-  - number: '1'
+  - id: '29'
+    number: '1'
     address: вул. Ладичука, 150
     phone: (0552) 701-244
     extra: 
-  - number: '2'
+  - id: '182'
+    number: '2'
     address: вул. Ушакова, 50
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '236'
+    number: '3'
     address: просп. Адмірала Сенявіна, 11а
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '4'
+  - id: '328'
+    number: '4'
     address: вул. Патона, 3а
     phone: (0552) 701-244
     extra: 
-  - number: '5'
+  - id: '538'
+    number: '5'
     address: вул. Рози Люксембург, 11а
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '633'
+    number: '6'
     address: вул. Горького, 9
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '708'
+    number: '7'
     address: просп. 200 років Херсона, 30
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '745'
+    number: '8'
     address: вул. Перекопська ,173
     phone: (0552) 701-244
     extra: 
-  - number: '9'
+  - id: '895'
+    number: '9'
     address: вул. Димитрова, 23
     phone: (0552) 701-244
     extra: до 30 кг
-  - number: '10'
+  - id: '10189'
+    number: '10'
     address: вул. Грецька (Леніна), 40
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
-  - number: '11'
+  - id: '10237'
+    number: '11'
     address: вул. 40 років Жовтня, 110
     phone: (0552) 701-244
     extra: до 30 кг на одне місце
   Цюрупинськ:
-  - number: '1'
+  - id: '491'
+    number: '1'
     address: вул. Пролетарська, 100
     phone: (0552) 701-244
     extra: 
   Чаплинка:
-  - number: '1'
+  - id: '363'
+    number: '1'
     address: вул. Радянська, 2а
     phone: (0552) 701-244
     extra: 
 Полтавська область:
   Білики:
-  - number: '1'
+  - id: '10035'
+    number: '1'
     address: вул. Привокзальна, 16
     phone: (0532) 69-61-69
     extra: 
   Велика Багачка:
-  - number: '1'
-    address: вул. Шевченка, 95
+  - id: '608'
+    number: '1'
+    address: вул. Шевченка, 97
     phone: (0532) 69-61-69
     extra: 
   Гадяч:
-  - number: '1'
+  - id: '185'
+    number: '1'
     address: вул. Лохвицька, 30в
     phone: (0532) 69-61-69
     extra: 
   Глобине:
-  - number: '1'
+  - id: '155'
+    number: '1'
     address: вул. Жовтнева, 3
     phone: (0532) 696-196
     extra: 
   Градизьк:
-  - number: '1'
+  - id: '953'
+    number: '1'
     address: вул. Київська, 46
     phone: (0532) 69-61-96
     extra: 
-  Гребінка:
-  - number: '1'
+  Гребінка (Полтавська обл.):
+  - id: '316'
+    number: '1'
     address: пров. Піонерський, 6
     phone: (0532) 69-61-69
     extra: 
   Диканька:
-  - number: '1'
+  - id: '488'
+    number: '1'
     address: вул. Леніна, 58/1
     phone: (0532) 69-61-69
     extra: 
   Зіньків:
-  - number: '1'
+  - id: '287'
+    number: '1'
     address: вул. Леніна, 73
     phone: (0532) 69-61-69
     extra: 
   Карлівка:
-  - number: '1'
+  - id: '157'
+    number: '1'
     address: вул. Леніна, 30
     phone: (0532) 69-61-69
     extra: 
   Кобеляки:
-  - number: '1'
+  - id: '173'
+    number: '1'
     address: вул. Шевченка, 40
     phone: (0532) 69-61-69
     extra: 
   Козельщина:
-  - number: '1'
+  - id: '370'
+    number: '1'
     address: вул. Радянська, 44.
     phone: (0532) 696-196
     extra: 
   Комсомольськ:
-  - number: '1'
+  - id: '232'
+    number: '1'
     address: вул. Радянська, 31
     phone: (0532) 696-196
     extra: 
-  - number: '2'
+  - id: '27'
+    number: '2'
     address: вул. Строна, 3
     phone: (0532) 696-196
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '10194'
+    number: '3'
     address: вул. Леніна, 43, оф.1
     phone: (0532) 696-196
     extra: до 30 кг
   Котельва:
-  - number: '1'
+  - id: '276'
+    number: '1'
     address: вул. Будьоного, 6
     phone: (0542) 702-434
     extra: 
   Кременчук:
-  - number: '1'
+  - id: '24'
+    number: '1'
     address: вул.1-й Піщаний тупік,1
     phone: (0532) 696-196
     extra: 
-  - number: '2'
+  - id: '96'
+    number: '2'
     address: вул. Жовтнева,31/16(Центр)
     phone: (0532) 696-196
     extra: до 30 кг
-  - number: '3'
+  - id: '106'
+    number: '3'
     address: вул. 60-річчя Жовтня, 83/1
     phone: (0532) 696-196
     extra: до 30 кг
-  - number: '4'
+  - id: '183'
+    number: '4'
     address: вул. Гагаріна, 13
     phone: (0532) 696-196
     extra: до 30 кг
-  - number: '5'
+  - id: '279'
+    number: '5'
     address: вул. І. Приходька, 28 (Крюків)
     phone: (0532) 696-196
     extra: до 30 кг
-  - number: '6'
+  - id: '587'
+    number: '6'
     address: вул. 50 років Жовтня, 96 (Торговий центр Простор)
     phone: (0532) 696-196
     extra: до 30 кг
-  - number: '7'
+  - id: '667'
+    number: '7'
     address: вул. 50 років СРСР,51-Б(Авторинок)
     phone: (0532) 696-196
     extra: 
-  - number: '8'
+  - id: '10107'
+    number: '8'
     address: вул. Квартал 101, 2 (Водоканал)
     phone: (0532) 696-196
     extra: до 30 кг
   Лохвиця:
-  - number: '1'
+  - id: '169'
+    number: '1'
     address: вул. Бурмистренка,  2а
     phone: (0532) 69-61-69
     extra: 
   Лубни:
-  - number: '1'
+  - id: '61'
+    number: '1'
     address: вул. Фабрична, 7
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '997'
+    number: '2'
     address: вул. Ярослава Мудрого, 50, кв. 65
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '3'
+  - id: '10192'
+    number: '3'
     address: вул. Монастирська, 71
     phone: (0532) 69-61-69
     extra: до 30 кг
   Машівка:
-  - number: '1'
+  - id: '335'
+    number: '1'
     address: вул. Леніна, 84
     phone: (0532) 69-61-69
     extra: 
   Миргород:
-  - number: '1'
+  - id: '83'
+    number: '1'
     address: вул. Гоголя, 4
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '653'
+    number: '2'
     address: вул. Кашинського, 4
     phone: (0532) 69-61-69
     extra: до 30 кг
   Нові Санжари:
-  - number: '1'
+  - id: '537'
+    number: '1'
     address: вул. Жовтнева, 76
     phone: (0532) 69-61-69
     extra: 
   Опішня:
-  - number: '1'
+  - id: '10114'
+    number: '1'
     address: вул. Жовтнева, 21
     phone: (0532) 696-169
     extra: 
   Оржиця:
-  - number: '1'
+  - id: '364'
+    number: '1'
     address: вул. Леніна, 13
     phone: (0532) 69-61-69
     extra: 
   Пирятин:
-  - number: '1'
+  - id: '184'
+    number: '1'
     address: вул. Гребінківська, 20а
     phone: (0532) 69-61-69
     extra: 
   Полтава:
-  - number: '1'
+  - id: '36'
+    number: '1'
     address: вул. Фрунзе, 225
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '40'
+    number: '2'
     address: вул. Половка, 66б
     phone: (0532) 69-61-69
     extra: 
-  - number: '3'
+  - id: '94'
+    number: '3'
     address: вул. Пушкіна, 46
     phone: (0532) 69-61-69
-    extra: до 30 кг
-  - number: '4'
+    extra: до 30 кг на одне місце
+  - id: '145'
+    number: '4'
     address: вул. Старий Поділ, 8
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '5'
+  - id: '419'
+    number: '5'
     address: вул. Жовтнева, 73
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '6'
+  - id: '558'
+    number: '6'
     address: вул. Калініна, 19
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '7'
+  - id: '573'
+    number: '7'
     address: вул. М. Бірюзова, 43 а
     phone: (0532) 69-61-69
-    extra: до 30 кг
-  - number: '8'
+    extra: до 30 кг на одне місце
+  - id: '670'
+    number: '8'
     address: вул. Чураївни, 2 в
     phone: (0532) 69-61-69
     extra: до 30 кг
-  - number: '9'
+  - id: '679'
+    number: '9'
     address: вул. Комсомольська, 28
     phone: (0532) 69-61-69, (0532) 56-56-01
     extra: до 30 кг
-  - number: '10'
+  - id: '10186'
+    number: '10'
     address: вул. Фрунзе, 63
     phone: (0532) 69-61-69
     extra: до 30 кг на одне місце
-  - number: '94'
-    address: Склад АРХІВ
-    phone: ''
-    extra: 
   Решетилівка:
-  - number: '1'
+  - id: '189'
+    number: '1'
     address: вул. Шевченка, 11а
     phone: (0532) 69-61-69
     extra: 
   Семенівка(Кременчук):
-  - number: '1'
+  - id: '317'
+    number: '1'
     address: вул. Леніна, 52
     phone: (0532) 696-196
     extra: 
   Хорол:
-  - number: '1'
+  - id: '315'
+    number: '1'
     address: вул. Карла Маркса, 86/1 (територія автошколи)
     phone: (0532) 69-61-69
     extra: 
   Червонозаводське:
-  - number: '1'
+  - id: '760'
+    number: '1'
     address: вул. Матросова, 19 б
     phone: (0532) 69-61-69
     extra: 
   Чорнухи:
-  - number: '1'
+  - id: '505'
+    number: '1'
     address: вул. Леніна, 39
     phone: (0532) 69-61-69
     extra: 
   Чутове:
-  - number: '1'
+  - id: '170'
+    number: '1'
     address: вул. Набережна, 15а
     phone: (0532) 69-61-69
     extra: 
   Шишаки:
-  - number: '1'
+  - id: '609'
+    number: '1'
     address: вул. Павлика, 2
     phone: (0532) 69-61-69
     extra: 
 Хмельницька область:
   Білогір'я:
-  - number: '1'
+  - id: '678'
+    number: '1'
     address: вул. Шевченка, 72а
     phone: (0382) 735-844
     extra: 
   Віньківці:
-  - number: '1'
+  - id: '842'
+    number: '1'
     address: вул. Гагаріна, 7а
     phone: (0382) 735-844
     extra: 
   Волочиськ:
-  - number: '1'
+  - id: '496'
+    number: '1'
     address: вул. Пушкіна, 14а
     phone: (0382) 735-844
     extra: 
   Городок(Хмельницький):
-  - number: '1'
+  - id: '264'
+    number: '1'
     address: вул. Грушевського,11
     phone: (0382) 735-844
     extra: 
   Деражня:
-  - number: '1'
+  - id: '650'
+    number: '1'
     address: вул. Проскурівська, 3
     phone: (0382) 735-844
     extra: 
   Дунаївці:
-  - number: '1'
+  - id: '93'
+    number: '1'
     address: вул. Красінських, 20а
     phone: (0382) 735-844
     extra: 
   Ізяслав:
-  - number: '1'
+  - id: '422'
+    number: '1'
     address: вул. Заславська, 6
     phone: (0382) 735-844
     extra: 
   Кам'янець-Подільський:
-  - number: '1'
+  - id: '28'
+    number: '1'
     address: вул. І.Франка, 40а
     phone: (0382) 735-844
     extra: 
-  - number: '2'
+  - id: '367'
+    number: '2'
     address: вул. Першотравнева, 7а
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '3'
+  - id: '510'
+    number: '3'
     address: вул. Васильєва, 1
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '4'
+  - id: '752'
+    number: '4'
     address: вул. Шевченка, 15
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '5'
+  - id: '10209'
+    number: '5'
     address: вул. Лесі Українки, 39/2
     phone: (0532) 696-169
     extra: до 30 кг
   Красилів:
-  - number: '1'
+  - id: '855'
+    number: '1'
     address: вул. Грушевського, 146
     phone: (0382) 735-844
     extra: 
-  - number: '2'
+  - id: '10147'
+    number: '2'
     address: вул. Булаєнка, 13
     phone: (0382) 735-844
     extra: до 30 кг
   Летичів:
-  - number: '1'
+  - id: '336'
+    number: '1'
     address: вул. 50-річчя жовтня,25
     phone: (0382) 735-844
     extra: 
   Нетішин:
-  - number: '1'
+  - id: '254'
+    number: '1'
     address: вул. Висоцького, 3
     phone: (0382) 735-844
     extra: 
   Нова Ушиця:
-  - number: '1'
+  - id: '963'
+    number: '1'
     address: вул. Шевченка, 18
     phone: (0382) 735-844
     extra: 
   Полонне:
-  - number: '1'
-    address: вул. Лесі Українки, 113б
-    phone: (0382) 735-844
-    extra: до 30 кг
-  - number: '2'
+  - id: '323'
+    number: '1'
+    address: Відділення
+    phone: ''
+    extra: 
+  - id: '847'
+    number: '2'
     address: вул. Ходякова, 27е
     phone: (0382) 735-844
     extra: 
   Славута:
-  - number: '1'
+  - id: '54'
+    number: '1'
     address: площа  Шевченка 4/1
     phone: (0382) 735-844
     extra: 
   Стара Синява:
-  - number: '1'
+  - id: '905'
+    number: '1'
     address: вул. Грушевського, 54
     phone: (0382) 735-844
     extra: 
   Старокостянтинів:
-  - number: '1'
+  - id: '540'
+    number: '1'
     address: вул.І.Франка,19
     phone: (0382) 735-844
     extra: 
-  - number: '2'
+  - id: '754'
+    number: '2'
     address: вул. Грушевського, 39
     phone: (0382) 735-844
     extra: до 30 кг
   Теофіполь:
-  - number: '1'
+  - id: '676'
+    number: '1'
     address: вул. Б. Хмельницького, 2
     phone: (0382) 735-844
     extra: 
   Хмельницький:
-  - number: '1'
+  - id: '90'
+    number: '1'
     address: вул. Озерна,16/1 (біля газової заправки, район з-да вЂњТемпвЂќ)
     phone: (0382) 735-844
     extra: 
-  - number: '2'
+  - id: '67'
+    number: '2'
     address: вул. Геологів, 2 (територія ринку вЂњПан КаблуквЂќ)
     phone: (0382) 735-844
     extra: 
-  - number: '3'
+  - id: '14'
+    number: '3'
     address: вул. Ватутіна 11
     phone: (0382) 735-844
     extra: 
-  - number: '4'
+  - id: '214'
+    number: '4'
     address: проспект Миру, 102/1
     phone: (0382) 735-844
     extra: 
-  - number: '5'
+  - id: '310'
+    number: '5'
     address: вул. Грушевського, 57
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '6'
+  - id: '472'
+    number: '6'
     address: вул. Театральна, 1
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '7'
+  - id: '497'
+    number: '7'
     address: вул. Курчатова, 20
     phone: (0382) 735-844
     extra: 
-  - number: '8'
-    address: вул. Заводська, 155
+  - id: '584'
+    number: '8'
+    address: вул. Хотовицького, 5
     phone: (0382) 735-844
-    extra: 
-  - number: '9'
+    extra: до 30 кг
+  - id: '624'
+    number: '9'
     address: вул. І. Франка, 16
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '10'
+  - id: '684'
+    number: '10'
     address: Зарічанська, 26/1
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '11'
+  - id: '702'
+    number: '11'
     address: вул. Проскурівського підпілля, 71/1
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '12'
+  - id: '749'
+    number: '12'
     address: проїзд Геологів, 7/1
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '13'
+  - id: '802'
+    number: '13'
     address: вул. Чорновола, 84
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '14'
+  - id: '852'
+    number: '14'
     address: вул. КамвЂ™янецька, 159
     phone: (0382) 735-844
     extra: до 30 кг
-  - number: '15'
+  - id: '871'
+    number: '15'
     address: вул. Панаса Мирного, 4/1
     phone: (0382) 735-844
     extra: до 30 кг
   Чемерівці:
-  - number: '1'
+  - id: '755'
+    number: '1'
     address: вул.Центральна, 2
     phone: (0382) 735-844
     extra: 
   Шепетівка:
-  - number: '1'
+  - id: '456'
+    number: '1'
     address: вул. Валі Котика, 33
     phone: (0382) 735-844
     extra: 
-  - number: '2'
+  - id: '853'
+    number: '2'
     address: просп. Миру, 5
     phone: (0382) 735-844
     extra: до 30 кг
   Ярмолинці:
-  - number: '1'
-    address: вул. Хмельницька, 3
+  - id: '991'
+    number: '1'
+    address: вул. Щорса, 16/4
     phone: (0382) 735-844
     extra: 
 Сумська область:
   Білопілля:
-  - number: '1'
+  - id: '380'
+    number: '1'
     address: вул. Макаренка, 1
     phone: (0542) 702-434
     extra: 
   Буринь:
-  - number: '1'
+  - id: '263'
+    number: '1'
     address: вул. Дем'яна Бєдного, 4
     phone: (0542) 702-434
     extra: 
   Велика Писарівка:
-  - number: '1'
+  - id: '877'
+    number: '1'
     address: вул. Борців Революції, 23
     phone: (0542) 702-434
     extra: 
   Глухів:
-  - number: '1'
+  - id: '345'
+    number: '1'
     address: вул. Терещенків, 45
     phone: (0542) 702-434
     extra: 
   Дружба:
-  - number: '1'
+  - id: '10031'
+    number: '1'
     address: вул. Базарна, 3
     phone: (0542) 702-434
     extra: 
   Конотоп:
-  - number: '1'
+  - id: '164'
+    number: '1'
     address: 4-й пров. Успенсько-Троїцької, 12
     phone: (0542) 702-434
     extra: 
-  - number: '2'
+  - id: '776'
+    number: '2'
     address: вул.Братів Радченків,58
     phone: (0542) 702-434
     extra: до 30 кг
-  - number: '3'
+  - id: '10190'
+    number: '3'
     address: вул. Урицького, 2
     phone: (0542) 702-434
     extra: до 30 кг
   Краснопілля:
-  - number: '1'
+  - id: '265'
+    number: '1'
     address: вул. Сумська, 16
     phone: (0542) 702-434
     extra: 
   Кролевець:
-  - number: '1'
+  - id: '219'
+    number: '1'
     address: вул. Карла Маркса, 15
     phone: (0542) 702-434
     extra: 
   Лебедин:
-  - number: '1'
+  - id: '220'
+    number: '1'
     address: площа Інтернаціональна, 20
     phone: (0542) 702-434
     extra: 
   Липова Долина:
-  - number: '1'
+  - id: '889'
+    number: '1'
     address: 3-й провулок Роменської, 1
     phone: (0542) 702-434
     extra: 
   Недригайлів:
-  - number: '1'
+  - id: '974'
+    number: '1'
     address: вул. Леніна, 24
     phone: (0542) 702-434
     extra: 
   Охтирка:
-  - number: '1'
+  - id: '141'
+    number: '1'
     address: вул. Фрунзе, 8
     phone: (0542) 702-434
     extra: 
-  - number: '2'
+  - id: '967'
+    number: '2'
     address: вул. Жовтнева, 18
     phone: (0542) 702-434
     extra: до 30 кг
   Путивль:
-  - number: '1'
+  - id: '292'
+    number: '1'
     address: вул. Кірова, 36
     phone: (0542) 702-434
     extra: 
   Ромни:
-  - number: '1'
-    address: вул. Щучки, 4ж
+  - id: '490'
+    number: '1'
+    address: вул. Дудіна, 20в
     phone: (0542) 702-434
     extra: 
+  - id: '10264'
+    number: '2'
+    address: вул. Щучки, 4ж
+    phone: (0542) 702-734
+    extra: до 30 кг
   Свеса:
-  - number: '1'
+  - id: '10071'
+    number: '1'
     address: вул. Коцюбинського, 1
     phone: (0542) 702-434
     extra: 
   Середина-Буда:
-  - number: '1'
+  - id: '365'
+    number: '1'
     address: вул. Василівська, 3
     phone: (0542) 702-434
     extra: 
   Суми:
-  - number: '1'
+  - id: '331'
+    number: '1'
     address: вул. 2-га Лебединська, 2а
     phone: (0542) 702-434
     extra: 
-  - number: '2'
+  - id: '137'
+    number: '2'
     address: вул. Антонова, 11/1
     phone: (0542) 702-434
     extra: до 30 кг
-  - number: '3'
+  - id: '30'
+    number: '3'
     address: вул. Харківська, 105
     phone: (0542) 702-434
     extra: 
-  - number: '4'
+  - id: '409'
+    number: '4'
     address: просп. Тараса Шевченка, 4
     phone: (0542) 702-434
     extra: до 30 кг
-  - number: '5'
+  - id: '542'
+    number: '5'
     address: вул. Воровського, 20
     phone: (0542) 702-434
     extra: 
-  - number: '6'
+  - id: '642'
+    number: '6'
     address: пл. Незалежності, 1
     phone: (0542) 702-434
     extra: до 30 кг
-  - number: '7'
+  - id: '787'
+    number: '7'
     address: вул. Білопільський шлях, 30/3
     phone: (0542) 702-434
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '985'
+    number: '8'
     address: просп. Михайла Лушпи, 23/1
     phone: (0542) 702-434
     extra: до 30 кг
   Тростянець(Охтирка):
-  - number: '1'
+  - id: '280'
+    number: '1'
     address: вул. Миру, 2
     phone: (0542) 702-434
     extra: 
   Шостка:
-  - number: '1'
+  - id: '92'
+    number: '1'
     address: вул. Привокзальна, 1б
     phone: (0542) 702-434
     extra: 
-  - number: '2'
+  - id: '685'
+    number: '2'
     address: вул. Миру, 8
     phone: (0542) 702-434
     extra: до 30 кг
+  - id: '10260'
+    number: '3'
+    address: пров. Шевченка, 2
+    phone: (0542) 702-434
+    extra: до 30 кг
   Ямпіль(Шостка):
-  - number: '1'
+  - id: '297'
+    number: '1'
     address: вул. Бульвар Ювілейний, 6
     phone: (0542) 702-434
     extra: 
 Кіровоградська область:
   Бобринець:
-  - number: '1'
+  - id: '255'
+    number: '1'
     address: вул. 16 березня, 68 (вхід з вул. Орджонікідзе)
     phone: (0522) 305-121
     extra: 
   Верблюжка:
-  - number: '1'
+  - id: '10247'
+    number: '1'
     address: вул. Біляєва, 50
     phone: (0522) 27-18-18
     extra: 
   Вільшанка:
-  - number: '1'
+  - id: '10055'
+    number: '1'
     address: вул. Комсомольська, 40
     phone: (0522) 305-121
     extra: 
+  Власівка:
+  - id: '10259'
+    number: '1'
+    address: Відділення N1, вул. Молодіжна, 30а
+    phone: (0532) 69-61-69
+    extra: 
   Гайворон:
-  - number: '1'
+  - id: '421'
+    number: '1'
     address: вул. Кірова, 3є
     phone: (0522) 305-121
     extra: 
   Голованівськ:
-  - number: '1'
+  - id: '10023'
+    number: '1'
     address: вул. 50 років Жовтня, 1
     phone: (0522) 305-121
     extra: 
   Добровеличківка:
-  - number: '1'
+  - id: '692'
+    number: '1'
     address: вул. 40 років Жовтня, 34/2
     phone: (0522) 305-121
     extra: 
   Долинська:
-  - number: '1'
+  - id: '211'
+    number: '1'
     address: вул. Щорса, 9а
     phone: (0564) 999-630
     extra: 
   Завалля (Кіровоград. обл):
-  - number: '1'
+  - id: '10151'
+    number: '1'
     address: вул. Жовтнева, 14
     phone: (0522) 271-818
     extra: 
   Знам'янка:
-  - number: '1'
+  - id: '251'
+    number: '1'
     address: вул. Київська, 21
     phone: (0522) 305-121
     extra: 
   Кіровоград:
-  - number: '1'
+  - id: '130'
+    number: '1'
     address: вул. Джерельна, 88а
     phone: (0522) 305-121
     extra: 
-  - number: '2'
+  - id: '17'
+    number: '2'
     address: вул. Полтавська, 83
     phone: (0522) 305-121
     extra: 
-  - number: '3'
+  - id: '258'
+    number: '3'
     address: вул. Кірова, 85
     phone: (0522) 305-121
     extra: 
-  - number: '4'
+  - id: '427'
+    number: '4'
     address: вул. Волкова, 13в
     phone: (0522) 305-121
     extra: 
-  - number: '5'
+  - id: '430'
+    number: '5'
     address: вул. Шевченка, 16б
     phone: (0522) 305-121
     extra: до 30 кг
-  - number: '6'
+  - id: '637'
+    number: '6'
     address: вул. Короленка, 32 а
     phone: (0522) 305-121
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '807'
+    number: '7'
     address: вул. Космонавта Попова 26, корп. 1
     phone: (0522) 305-121
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '10188'
+    number: '8'
     address: вул. Жовтневої Революції, 66а
     phone: (0522) 30-51-21
     extra: до 30 кг на одне місце
   Компаніївка:
-  - number: '1'
+  - id: '874'
+    number: '1'
     address: вул. Калініна (р-н Базарної площі)
     phone: (0522) 305-121
     extra: 
   Мала Виска:
-  - number: '1'
-    address: вул. Шевченка, 3
+  - id: '593'
+    number: '1'
+    address: вул. Жовтнева, 141
     phone: (0522) 305-121
     extra: 
   Новгородка:
-  - number: '1'
+  - id: '260'
+    number: '1'
     address: вул. Кірова, 12
     phone: (0522) 27-18-18
     extra: 
   Новоархангельськ:
-  - number: '1'
+  - id: '854'
+    number: '1'
     address: вул. Свердлова, 68
     phone: (0522) 305-121
     extra: 
   Новомиргород:
-  - number: '1'
+  - id: '551'
+    number: '1'
     address: вул. Шевченка, 48
     phone: (0522) 271-818
     extra: 
   Новоукраїнка:
-  - number: '1'
+  - id: '552'
+    number: '1'
     address: вул. Кірова, 24
     phone: (0522) 305-121
     extra: 
   Олександрівка(Кіровоград):
-  - number: '1'
+  - id: '465'
+    number: '1'
     address: вул. Леніна, 67а
     phone: (0522) 271-818
     extra: 
   Олександрія:
-  - number: '1'
+  - id: '23'
+    number: '1'
     address: вул. Айвазовського, 42а
     phone: (0522) 305-121
     extra: 
-  - number: '2'
+  - id: '631'
+    number: '2'
     address: вул. Діброви, 16
     phone: (0522) 305-121
     extra: до 30 кг
   Онуфріївка:
-  - number: '1'
+  - id: '10062'
+    number: '1'
     address: вул. Михайла Скляра, 13
     phone: (0522) 305-121
     extra: 
   Петрове:
-  - number: '1'
+  - id: '572'
+    number: '1'
     address: вул. Філатова, 8
     phone: (0564) 999-630
     extra: 
   Побузьке:
-  - number: '1'
+  - id: '10162'
+    number: '1'
     address: вул. Першотравнева, 31а/1
     phone: (0522) 30-51-21
     extra: 
   Помічна:
-  - number: '1'
+  - id: '761'
+    number: '1'
     address: вул. Перемоги, 83
     phone: (0522) 305-121
     extra: 
-  Рівне (Кіровоград):
-  - number: '1'
+  Рівне (Кіровоград, Новоукраїнський р-н):
+  - id: '10065'
+    number: '1'
     address: вул. Кірова, 126 а
     phone: (0522) 305-121
     extra: 
   Світловодськ:
-  - number: '1'
+  - id: '10226'
+    number: '1'
     address: вул. 9-го Січня, 102
     phone: (0532) 69-61-69
     extra: 
-  - number: '2'
+  - id: '144'
+    number: '2'
     address: вул. Богдана Хмельницького, 34
     phone: (0532) 696-196
     extra: до 30 кг
   Смоліне:
-  - number: '1'
+  - id: '576'
+    number: '1'
     address: вул. Казакова, 43
     phone: (0522) 305-121
     extra: 
   Ульянівка:
-  - number: '1'
+  - id: '420'
+    number: '1'
     address: пров. Леніна, 4а
     phone: (0522) 305-121
     extra: 
 Івано-Франківська область:
   Болехів:
-  - number: '1'
+  - id: '590'
+    number: '1'
     address: вул. Петрушевича, 4
     phone: (0342) 59-13-42
     extra: 
   Брошнів-Осада:
-  - number: '1'
+  - id: '10211'
+    number: '1'
     address: вул. 22 Січня, 82
     phone: (0342) 59-13-42
     extra: 
   Бурштин:
-  - number: '1'
+  - id: '638'
+    number: '1'
     address: м. Бурштин, вул. Січових Стрільців,  24 (приміщення магазина"1000 дрібниць")
     phone: (0342) 59-13-42
     extra: 
   Верховина:
-  - number: '1'
+  - id: '909'
+    number: '1'
     address: вул. Івана Франка, 107а
     phone: (0342) 59-13-42
     extra: 
   Галич:
-  - number: '1'
+  - id: '846'
+    number: '1'
     address: вул. Коновальця, 4а (навпроти Укрпошти)
     phone: (0342) 59-13-42
     extra: 
   Городенка:
-  - number: '1'
+  - id: '727'
+    number: '1'
     address: вул. Чупринки, 12/1
     phone: (0342) 59-13-42
     extra: 
   Долина:
-  - number: '1'
+  - id: '250'
+    number: '1'
     address: вул. Незалежності, 6
     phone: (0342) 59-13-42
     extra: 
-  Заболотів:
-  - number: '1'
+  Заболотів (Снятинський р-н):
+  - id: '10119'
+    number: '1'
     address: вул. М. Грушевського, 3
     phone: (0372) 977-500
     extra: 
   Івано-Франківськ:
-  - number: '1'
+  - id: '12'
+    number: '1'
     address: вул. Мазепи, 175б (ввЂ™їзд з вул. Довженка, територія бази "Гурман")
     phone: (0342) 59-13-42
     extra: 
-  - number: '2'
+  - id: '151'
+    number: '2'
     address: вул. Вовчинецька, 26
     phone: (0342) 59-13-42
     extra: до 30 кг
-  - number: '3'
+  - id: '216'
+    number: '3'
     address: вул. Залізнична, 2
     phone: (0342) 59-13-42
     extra: до 30 кг
-  - number: '4'
+  - id: '416'
+    number: '4'
     address: вул. Юності, 62б
     phone: (0342) 59-13-42
     extra: 
-  - number: '5'
+  - id: '635'
+    number: '5'
     address: вул. Шевченка, 8
     phone: (0342) 59-13-42
     extra: до 10 кг
-  - number: '6'
+  - id: '772'
+    number: '6'
     address: Відділення N6 (до 30 кг на одне місце), вул. Надрічна, 2а
     phone: (0342) 59-13-42
     extra: 
-  - number: '7'
+  - id: '827'
+    number: '7'
     address: м. Тисмениця, вул. Галицька 62/2
     phone: (0342) 59-13-42
     extra: до 30 кг
-  - number: '8'
+  - id: '913'
+    number: '8'
     address: вул. Миколайчука, 30
     phone: (0342) 59-13-42
     extra: до 30 кг
-  - number: '9'
+  - id: '10185'
+    number: '9'
     address: бульв. Південний, 23
     phone: (0342) 59-13-42
     extra: до 30 кг
+  - id: '10258'
+    number: '10'
+    address: смт. Богородчани, вул. Б. Хмельницького, 3/1
+    phone: (0342) 59-13-42
+    extra: до 30 кг на одне місце
   Калуш:
-  - number: '1'
+  - id: '253'
+    number: '1'
     address: вул. Каракая, 34
     phone: (0342) 59-13-42
     extra: 
-  - number: '2'
+  - id: '10154'
+    number: '2'
     address: бульв. Незалежності, 6
     phone: (0342) 59-13-42
     extra: до 30 кг
   Коломия:
-  - number: '1'
+  - id: '103'
+    number: '1'
     address: вул. Симоненка, 1 (територія "Міжрайбази")
     phone: (0342) 59-13-42
     extra: 
-  - number: '2'
+  - id: '10193'
+    number: '2'
     address: вул. Гетьманська, 12
     phone: (0342) 77-44-50
     extra: до 30 кг
   Косів:
-  - number: '1'
+  - id: '479'
+    number: '1'
     address: вул. Степана Бандери, 2
     phone: (0342) 77-44-50
     extra: 
   Надвірна:
-  - number: '1'
+  - id: '410'
+    number: '1'
     address: вул. Мазепи, 25
     phone: (0342)77-44-50
     extra: 
   Рогатин:
-  - number: '1'
+  - id: '721'
+    number: '1'
     address: вул. Галицька, 126
     phone: (0342) 59-13-42
     extra: 
   Рожнятів:
-  - number: '1'
+  - id: '487'
+    number: '1'
     address: вул. Січових Стрільців, 22
     phone: (0342) 59-13-42
     extra: 
   Снятин:
-  - number: '1'
+  - id: '241'
+    number: '1'
     address: вул. Шевченка, 251
     phone: (0372) 977-500
     extra: 
   Тлумач:
-  - number: '1'
+  - id: '914'
+    number: '1'
     address: вул. Ольги Кобилянської,1
     phone: (0342) 59-13-42
     extra: 
 Львiвська область:
-  Борислав:
-  - number: '1'
+  Борислав (Львівська обл.):
+  - id: '10216'
+    number: '1'
     address: вул. Коваліва, 4
     phone: (0676) 74-51-40
     extra: 
   Броди:
-  - number: '1'
+  - id: '339'
+    number: '1'
     address: вул. Лесі Українки, 55
     phone: (0352) 561-291
     extra: 
   Буськ:
-  - number: '1'
+  - id: '583'
+    number: '1'
     address: вул. Буського братства, 9
     phone: (032) 290-19-11
     extra: 
   Городок(Львів):
-  - number: '1'
+  - id: '705'
+    number: '1'
     address: вул. Львівська, 64
     phone: (032) 290-19-11
     extra: 
   Дрогобич:
-  - number: '1'
+  - id: '64'
+    number: '1'
     address: вул. Горішня Брама, 183
     phone: (032) 290-19-11
     extra: 
-  - number: '2'
+  - id: '931'
+    number: '2'
     address: вул. Бориславська, 2
     phone: (032) 290-19-11
     extra: до 30 кг
+  - id: '10280'
+    number: '3'
+    address: вул. М. Грушевського, 42
+    phone: (032) 290-19-11
+    extra: до 30 кг
   Жидачів:
-  - number: '1'
+  - id: '536'
+    number: '1'
     address: вул. Міцкевича, 9
     phone: (032) 290-19-11
     extra: 
   Жовква:
-  - number: '1'
+  - id: '816'
+    number: '1'
     address: вул. Дорошенка, 3
     phone: (032) 290-19-11
     extra: 
   Золочів(Львівська обл.):
-  - number: '1'
+  - id: '386'
+    number: '1'
     address: вул. Січових Стрільців, 15 б
     phone: (0352) 47-08-30
     extra: 
   Кам'янка-Бузька:
-  - number: '1'
+  - id: '878'
+    number: '1'
     address: вул. Чупринки, 15
     phone: (032) 290-19-11
     extra: 
   Львів:
-  - number: '1'
+  - id: '8'
+    number: '1'
     address: вул. Городоцька, 355/6
     phone: (032) 290-19-11
     extra: 
-  - number: '2'
+  - id: '78'
+    number: '2'
     address: вул. Пластова, 7
     phone: (032) 290-19-11
     extra: 
-  - number: '3'
+  - id: '126'
+    number: '3'
     address: вул. Угорська, 22
     phone: (032) 290-19-11
     extra: 
-  - number: '4'
+  - id: '217'
+    number: '4'
     address: вул. Кульпарківська, 93а
     phone: (032) 290-19-11
     extra: 
-  - number: '5'
+  - id: '302'
+    number: '5'
     address: вул. Данилишина, 2
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '6'
+  - id: '342'
+    number: '6'
     address: вул. Сихівська, 8
     phone: (032) 290-19-11
     extra: до 10 кг
-  - number: '7'
+  - id: '442'
+    number: '7'
     address: вул. Короленка, 4
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '8'
+  - id: '586'
+    number: '8'
     address: вул. Гетьмана Івана Мазепи, 37
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '9'
+  - id: '644'
+    number: '9'
     address: вул. Кульпарківська, 180
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '10'
-    address: вул. Кльоновича, 14
+  - id: '726'
+    number: '10'
+    address: вул. Левицького, 7
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '11'
-    address: м. Винники, вул. Галицька, 29
+  - id: '872'
+    number: '11'
+    address: м. Винники, вул. Галицька, 29а
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '12'
+  - id: '896'
+    number: '12'
     address: вул. Сірка, 21, (р-н Левандівка)
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '13'
+  - id: '996'
+    number: '13'
     address: вул. Ставова, 7в
     phone: (032) 290-19-11
     extra: до 30 кг на одне місце
-  - number: '14'
+  - id: '10126'
+    number: '14'
     address: вул. Гнатюка, 17
     phone: (032) 290-19-11
     extra: до 30 кг
-  - number: '15'
+  - id: '10214'
+    number: '15'
     address: вул. Героїв УПА, 6
     phone: (0322) 90-19-11
     extra: до 30 кг
-  - number: '16'
+  - id: '10242'
+    number: '16'
     address: просп. Червоної Калини, 76
     phone: (032) 290-19-11
     extra: до 30 кг
+  - id: '10284'
+    number: '17'
+    address: вул. Шевченка, 323
+    phone: (032) 290-19-11
+    extra: до 30 кг на одне місце
   Миколаїв(Львів):
-  - number: '1'
+  - id: '10092'
+    number: '1'
     address: вул. Чайковського, 18
     phone: (032) 290-19-11
     extra: 
   Мостиська:
-  - number: '1'
+  - id: '10012'
+    number: '1'
     address: вул. Галицька, 56
     phone: (032) 290-19-11
     extra: 
   Новий Розділ:
-  - number: '1'
+  - id: '582'
+    number: '1'
     address: вул. Яворницького,8
     phone: (032) 290-19-11
     extra: 
   Новояворівськ:
-  - number: '1'
+  - id: '668'
+    number: '1'
     address: вул. Ів. Мазепи, 2
     phone: (032) 290-19-11
     extra: 
   Перемишляни:
-  - number: '1'
+  - id: '499'
+    number: '1'
     address: вул. Привокзальна, 15
     phone: (032) 290-19-11
     extra: 
   Рава-Руська:
-  - number: '1'
+  - id: '10198'
+    number: '1'
     address: вул. Коновальця, 25/27
     phone: (032) 290-19-11
     extra: 
   Радехів:
-  - number: '1'
+  - id: '840'
+    number: '1'
     address: вул. Мишуги, 4
     phone: (032) 290-19-11
     extra: 
   Самбір:
-  - number: '1'
+  - id: '330'
+    number: '1'
     address: вул. Шевченка, 52/8
     phone: (032) 290-19-11
     extra: 
   Сколе:
-  - number: '1'
+  - id: '987'
+    number: '1'
     address: Майдан Незалежності, 7
     phone: (032) 290-19-11
     extra: 
   Сокаль:
-  - number: '1'
+  - id: '10161'
+    number: '1'
     address: вул. Тартаківська, 99 (стара автостанція)
     phone: (032) 290-19-11
     extra: 
   Старий Самбір:
-  - number: '1'
+  - id: '10024'
+    number: '1'
     address: вул. Вітовського, 41б
     phone: (0322) 90-19-11
     extra: 
   Стрий:
-  - number: '1'
+  - id: '10'
+    number: '1'
     address: вул. Грабовецька, 42
     phone: (032) 290-19-11
     extra: 
-  - number: '2'
+  - id: '932'
+    number: '2'
     address: вул. Коссака, 6/58
     phone: (032) 290-19-11
     extra: до 30 кг
   Трускавець:
-  - number: '1'
+  - id: '390'
+    number: '1'
     address: вул. Івана Мазепи, 21є
     phone: (032) 290-19-11
     extra: 
   Турка:
-  - number: '1'
+  - id: '10016'
+    number: '1'
     address: площа Ринок, 13/2
     phone: (032) 290-19-11
     extra: 
   Ходорів:
-  - number: '1'
+  - id: '989'
+    number: '1'
     address: вул. Кропивницького, 1
     phone: (032) 290-19-11
     extra: 
   Червоноград(Львів):
-  - number: '1'
+  - id: '340'
+    number: '1'
     address: вул. Б. Хмельницького, 65
     phone: (032) 290-19-11
     extra: 
-  - number: '2'
+  - id: '10233'
+    number: '2'
     address: вул. Клюсівська, 20
     phone: (032) 290-19-11
     extra: до 30 кг на одне місце
   Яворів:
-  - number: '1'
+  - id: '10225'
+    number: '1'
     address: вул. П.Тичини, 1
     phone: (0322) 90-19-11
     extra: 
 Черкаська область:
   Ватутіне:
-  - number: '1'
+  - id: '870'
+    number: '1'
     address: вул. Ювілейна, 25
     phone: (0472) 590-260
     extra: 
   Городище:
-  - number: '1'
+  - id: '191'
+    number: '1'
     address: вул. Миру, 107а
     phone: (0472) 590-260
     extra: 
   Драбів:
-  - number: '1'
+  - id: '738'
+    number: '1'
     address: вул. Леніна, 14
     phone: (0472) 590-260
     extra: 
   Жашків:
-  - number: '1'
+  - id: '415'
+    number: '1'
     address: вул. Одеська, 2а
     phone: (0472) 590-260
     extra: 
   Звенигородка:
-  - number: '1'
-    address: просп. Шевченка, 123в
+  - id: '207'
+    number: '1'
+    address: вул. Тараса Шевченка, 4
     phone: (0472) 590-260
     extra: 
   Золотоноша:
-  - number: '1'
+  - id: '162'
+    number: '1'
     address: вул. Обухова, 20
     phone: (0472) 590-260
     extra: 
-  - number: '2'
+  - id: '10234'
+    number: '2'
     address: вул. Шевченка, 66
     phone: (0472) 590-260
     extra: до 30 кг
   Кам'янка (Черкаси):
-  - number: '1'
+  - id: '208'
+    number: '1'
     address: вул. Гагаріна, 1
     phone: (0472) 590-260
     extra: 
   Канів:
-  - number: '1'
+  - id: '209'
+    number: '1'
     address: вул. Київська, 7а
     phone: (0472) 590-260
     extra: 
+  - id: '10293'
+    number: '2'
+    address: вул. Шевченка ,41г
+    phone: ''
+    extra: до 30 кг
   Катеринопіль:
-  - number: '1'
-    address: вул. Леніна, 24
+  - id: '246'
+    number: '1'
+    address: вул. Леніна, 47
     phone: (0472) 590-260
     extra: 
   Корсунь-Шевченківський:
-  - number: '1'
-    address: вул. Шевченка, 82а
+  - id: '190'
+    number: '1'
+    address: вул. Червоноармійська, 12а
     phone: (0472) 590-260
     extra: 
   Лисянка:
-  - number: '1'
-    address: вул. Поштова, 21
+  - id: '247'
+    number: '1'
+    address: вул. Кірова, 4
     phone: (0472) 590-260
     extra: 
   Маньківка:
-  - number: '1'
+  - id: '526'
+    number: '1'
     address: вул. Шевченка, 22
     phone: (0472) 590-260
     extra: 
   Монастирище:
-  - number: '1'
+  - id: '373'
+    number: '1'
     address: вул. Чапаєва, 36
     phone: (0472) 590-260
     extra: 
   Сміла:
-  - number: '1'
-    address: вул. Перемоги, 14
+  - id: '435'
+    number: '1'
+    address: вул. Жовтнева, 18
     phone: (0472) 590-260
     extra: 
-  - number: '2'
-    address: вул. Жовтнева, 77/3
+  - id: '104'
+    number: '2'
+    address: вул. 40 років Перемоги, 6
     phone: (0472) 590-260
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '10245'
+    number: '3'
     address: вул. Леніна, 73
     phone: (047) 259-02-60
     extra: до 30 кг на одне місце
   Тальне:
-  - number: '1'
-    address: вул. Соборна, 6/1
+  - id: '395'
+    number: '1'
+    address: вул. Соборна, 20
     phone: (0472) 590-260
     extra: 
   Умань:
-  - number: '1'
+  - id: '80'
+    number: '1'
     address: вул. Заводська, 25
     phone: (0472) 590-260
     extra: 
-  - number: '2'
+  - id: '428'
+    number: '2'
     address: вул. Леніна, 31
     phone: (0472) 590-260
     extra: до 30 кг
+  - id: '10270'
+    number: '3'
+    address: вул. Ленінської іскри, 1/24
+    phone: (047) 259-02-60
+    extra: 
   Христинівка:
-  - number: '1'
+  - id: '466'
+    number: '1'
     address: вул. Урицького, 44
     phone: (0472) 590-260
     extra: 
   Черкаси:
-  - number: '1'
+  - id: '128'
+    number: '1'
     address: вул. Хоменка, 15
     phone: (0472) 590-260
     extra: 
-  - number: '2'
+  - id: '34'
+    number: '2'
     address: вул. Чигиринська, 11/1
     phone: (0472) 590-260
     extra: 
-  - number: '3'
+  - id: '139'
+    number: '3'
     address: бульв. Шевченка, 150
     phone: (0472) 590-260
     extra: до 30 кг
-  - number: '4'
+  - id: '257'
+    number: '4'
     address: вул. Гагаріна, 79
     phone: (0472) 590-260
     extra: до 30 кг
-  - number: '5'
+  - id: '434'
+    number: '5'
     address: вул. Руднєва, 45
     phone: (0472) 590-260
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '599'
+    number: '6'
     address: вул. Волкова, 30
     phone: (0472) 590-260
     extra: до 30 кг
-  - number: '7'
+  - id: '618'
+    number: '7'
     address: вул. Сумгаїтська, 33
     phone: (0472) 590-260
     extra: до 30 кг на одне місце
-  - number: '8'
+  - id: '10017'
+    number: '8'
     address: вул. Благовісна, 379
     phone: (0472) 590-260
     extra: до 30 кг на одне місце
-  - number: '9'
+  - id: '10123'
+    number: '9'
     address: вул. Остафія Дашкевича, 34
     phone: (0472) 590-260
     extra: до 30 кг на одне місце
+  - id: '10261'
+    number: '10'
+    address: вул. Одеська, 8
+    phone: (0472) 590-260
+    extra: до 30 кг на одне місце
   Чигирин:
-  - number: '1'
+  - id: '245'
+    number: '1'
     address: вул. Комсомольська, 17
     phone: (0472) 590-260
     extra: 
   Чорнобай:
-  - number: '1'
+  - id: '565'
+    number: '1'
     address: вул. Черкаська, 18
     phone: (0472) 590-260
     extra: 
   Шпола:
-  - number: '1'
+  - id: '194'
+    number: '1'
     address: вул. Леніна, 67
     phone: (0472) 590-260
     extra: 
 Чернівецька область:
   Вижниця:
-  - number: '1'
+  - id: '199'
+    number: '1'
     address: вул. Українська, 87
     phone: (0372) 977-500
     extra: 
+  Герца:
+  - id: '10291'
+    number: '1'
+    address: вул. Горького, 12
+    phone: ''
+    extra: 
   Глибока:
-  - number: '1'
+  - id: '594'
+    number: '1'
     address: вул. Головна, 99
     phone: (0372) 54-80-86
     extra: 
   Заставна:
-  - number: '1'
+  - id: '808'
+    number: '1'
     address: вул. Незалежності, 91
     phone: (0372) 977-500
     extra: 
   Кельменці:
-  - number: '1'
+  - id: '399'
+    number: '1'
     address: вул. Жукова, 24в
     phone: (0372) 977-500
     extra: 
   Кіцмань:
-  - number: '1'
+  - id: '591'
+    number: '1'
     address: вул. Незалежності, 107 а
     phone: (0372) 977-500
     extra: 
   Мамаївці:
-  - number: '1'
+  - id: '10091'
+    number: '1'
     address: вул. Шевченка, 158
     phone: (0372) 977-500
     extra: 
   Новодністровськ:
-  - number: '1'
+  - id: '447'
+    number: '1'
     address: Квартал 22, буд. 1а
     phone: (0372) 977-500
     extra: 
   Новоселиця:
-  - number: '1'
+  - id: '378'
+    number: '1'
     address: вул. Пірогова, 15 а
     phone: (0372) 977-500
     extra: 
   Путила:
-  - number: '1'
+  - id: '10207'
+    number: '1'
     address: вул. Українська, 34
     phone: (0372) 977-500
     extra: 
   Сокиряни:
-  - number: '1'
+  - id: '869'
+    number: '1'
     address: вул. Чорновола, 15
     phone: (0372) 977-500
     extra: 
   Сторожинець:
-  - number: '1'
+  - id: '71'
+    number: '1'
     address: вул. Шевченка, 33
-    phone: (0372) 54-80-86
+    phone: (0372) 977-500
     extra: 
   Хотин:
-  - number: '1'
+  - id: '237'
+    number: '1'
     address: вул. Дудніченка, 39г
     phone: (0372) 977-500
     extra: 
   Чернівці:
-  - number: '1'
+  - id: '179'
+    number: '1'
     address: вул. Руська, 234г
     phone: (0372) 977-500
     extra: 
-  - number: '2'
+  - id: '47'
+    number: '2'
     address: вул. Калинівська, 13 (МТК "Калинівський ринок")
     phone: (0372) 977-500
     extra: 
-  - number: '3'
+  - id: '107'
+    number: '3'
     address: вул. Коломийська, 9г (територія ТзОВ "Холод Сервіс")
     phone: (0372) 977-500
     extra: 
-  - number: '4'
+  - id: '37'
+    number: '4'
     address: вул. Головна, 200
-    phone: (0372) 54-80-86
+    phone: (0372) 977-500
     extra: 
-  - number: '5'
+  - id: '314'
+    number: '5'
     address: вул. Миколайчука, 9
     phone: (0372) 977-500
     extra: до 30 кг на одне місце
-  - number: '6'
+  - id: '520'
+    number: '6'
     address: вул. Шкільна, 1
     phone: (0372) 977-500
     extra: до 30 кг на одне місце
-  - number: '7'
+  - id: '605'
+    number: '7'
     address: вул. Кордуби, 12 (район Садової)
     phone: (0372) 977-500
     extra: до 30 кг
-  - number: '8'
+  - id: '725'
+    number: '8'
     address: вул. Червоноарміська,186в
     phone: (0372) 977-500
     extra: до 30 кг на одне місце
-  - number: '9'
+  - id: '774'
+    number: '9'
     address: вул. Калинівська, 13 б (ринок Добробут)
     phone: (0372) 977-500
     extra: 
-  - number: '10'
+  - id: '775'
+    number: '10'
     address: вул. Івана Франка, 15 (у дворі)
     phone: (0372) 977-500
     extra: до 30 кг
-  - number: '11'
+  - id: '873'
+    number: '11'
     address: вул. Васіле Александрі, 2в (Садгора)
     phone: (0372) 977-500
     extra: до 30 кг на одне місце
-  - number: '12'
+  - id: '10128'
+    number: '12'
     address: вул. Комарова, 29
     phone: (0372) 977-500
     extra: до 30 кг на одне місце
 Волинська область:
   Володимир-Волинський:
-  - number: '1'
+  - id: '101'
+    number: '1'
     address: вул. 20-го липня, 8 а
     phone: (0332) 277-500
     extra: 
-  - number: '2'
+  - id: '834'
+    number: '2'
     address: вул. Ковельська, 132/1
     phone: (0332) 277-500
     extra: до 30 кг
   Горохів:
-  - number: '1'
+  - id: '460'
+    number: '1'
     address: вул. Шевченка, 16б
     phone: (0332) 277-500
     extra: 
   Іваничі:
-  - number: '1'
+  - id: '555'
+    number: '1'
     address: вул. 8-го березня, 5
     phone: (0332) 277-500
     extra: 
   Камінь-Каширський:
-  - number: '1'
+  - id: '711'
+    number: '1'
     address: вул. Ковельська, 52
     phone: (0332) 277-500
     extra: 
   Ківерці:
-  - number: '1'
+  - id: '938'
+    number: '1'
     address: вул. Визволителів, 1
     phone: (0332) 277-500
     extra: 
   Ковель:
-  - number: '1'
+  - id: '21'
+    number: '1'
     address: вул. Відродження 1ж (р-н «КовельСільМаш», кінцева зупинка)
     phone: (0332) 277-500
     extra: 
-  - number: '2'
+  - id: '406'
+    number: '2'
     address: вул. Театральна, 18 (кінотеатр ім. Л. Українки)
     phone: (0332) 277-500
     extra: до 30 кг на одне місце
-  - number: '3'
+  - id: '792'
+    number: '3'
     address: вул. М. Левицького, 2а (район ринку «Брестський»)
     phone: (0332) 277-500
     extra: до 30 кг на одне місце
   Колки:
-  - number: '1'
+  - id: '994'
+    number: '1'
     address: вул. 8-го березня, 14
     phone: (0332) 277-500
     extra: 
   Локачі:
-  - number: '1'
+  - id: '836'
+    number: '1'
     address: вул. Луцька, 1/2
     phone: (0332) 277-500
     extra: 
+  Луків:
+  - id: '10276'
+    number: '1'
+    address: вул. Ковельська, 4а
+    phone: (0501) 45-91-34
+    extra: 
   Луцьк:
-  - number: '1'
+  - id: '218'
+    number: '1'
     address: вул. Карбишева, 1 (поруч з Адреналін-Сіті)
     phone: (0332) 277-500
     extra: 
-  - number: '2'
+  - id: '132'
+    number: '2'
     address: вул. Богдана Хмельницького, 47
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '3'
+  - id: '172'
+    number: '3'
     address: вул. Єршова, 11 (навпроти "Фуршету" ТЦ "Глобус")
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '4'
+  - id: '15'
+    number: '4'
     address: вул. Львівська, 152 б
     phone: (0332) 277-500
     extra: 
-  - number: '5'
+  - id: '352'
+    number: '5'
     address: вул. Електроапаратна, 3
     phone: (0332) 277-500
     extra: 
-  - number: '6'
+  - id: '481'
+    number: '6'
     address: вул. Конякіна, 24а
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '7'
+  - id: '643'
+    number: '7'
     address: Грушевського, 14/37
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '8'
+  - id: '664'
+    number: '8'
     address: вул. Соборності, 38а
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '9'
+  - id: '695'
+    number: '9'
     address: Рівненська 25
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '10'
+  - id: '703'
+    number: '10'
     address: просп. Волі, 21
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '11'
+  - id: '778'
+    number: '11'
     address: вул. Кривий Вал, 24
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '12'
+  - id: '851'
+    number: '12'
     address: просп. Молоді, 8
     phone: (0332) 277-500
     extra: до 30 кг
   Любешів:
-  - number: '1'
+  - id: '969'
+    number: '1'
     address: вул. Незалежності, 60
     phone: (0332) 277-500
     extra: 
   Любомль:
-  - number: '1'
+  - id: '361'
+    number: '1'
     address: вул. 1-го Травня, 18
     phone: (0332) 277-500
     extra: 
   Маневичі:
-  - number: '1'
-    address: вул. Вокзальна, 5
+  - id: '449'
+    number: '1'
+    address: вул. Луцька, 19
     phone: (0332) 277-500
     extra: 
   Нововолинськ:
-  - number: '1'
+  - id: '856'
+    number: '1'
     address: вул. Луцька, 25
     phone: (0332) 277-500
     extra: 
-  - number: '2'
+  - id: '791'
+    number: '2'
     address: вул. Проспект Перемоги, 19 (навпроти Водоканалу)
     phone: (0332) 277-500
     extra: до 30 кг
-  - number: '3'
+  - id: '429'
+    number: '3'
     address: вул. Нововолинська, 53 (навпроти школи N2)
     phone: (0332) 277-500
     extra: 
   Ратне:
-  - number: '1'
+  - id: '781'
+    number: '1'
     address: вул. Центральна, 42
     phone: (0332) 277-500
     extra: 
   Рожище:
-  - number: '1'
+  - id: '780'
+    number: '1'
     address: вул. Незалежності, 82
     phone: (0332) 277-500
     extra: 
   Стара Вижівка:
-  - number: '1'
+  - id: '940'
+    number: '1'
     address: площа Миру, 3/5
     phone: (0332) 277-500
     extra: 
   Старовойтове:
-  - number: '1'
+  - id: '10059'
+    number: '1'
     address: вул. Прикордонників, 4 (біля митниці «Ягодин»)
     phone: (0332) 277-500
     extra: 
   Турійськ:
-  - number: '1'
+  - id: '835'
+    number: '1'
     address: вул. Привокзальна,10
     phone: (0332) 277-500
     extra: 
   Устилуг:
-  - number: '1'
+  - id: '10202'
+    number: '1'
     address: вул. Володимирська, 25
     phone: (0332) 277-500
     extra: 
   Шацьк:
-  - number: '1'
+  - id: '879'
+    number: '1'
     address: вул. С. Шковороди, 29
     phone: (0332) 277-500
     extra: 

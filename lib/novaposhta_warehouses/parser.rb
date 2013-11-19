@@ -3,8 +3,8 @@ require 'nokogiri'
 require 'yaml'
 require 'open-uri'
 
-class NovaPoshtaParser
 
+class NovaposhtaWarehouses::Parser
   def initialize(path, filename = "novaposhta.yml")
     @path     = path
     @filename = filename
@@ -33,9 +33,11 @@ class NovaPoshtaParser
       end
 
       if name.index("отделение") || name.index("відділення")
+        map_address = tds.css('a').first['href']
         warehouses[last_region] ||= {}
         warehouses[last_region][last_city] ||= []
         warehouses[last_region][last_city] << {
+          'id'      => get_id(map_address),
           'number'  => get_number(name),
           'address' => get_address(data),
           'phone'   => phone.strip,
@@ -56,6 +58,10 @@ class NovaPoshtaParser
   end
 
   private
+
+  def get_id(string)
+    string.split('/').last
+  end
 
   def get_number(string)
     string.gsub(/\d+/).first
